@@ -1,0 +1,3860 @@
+hello
+i
+need
+to 
+read
+this
+file
+line
+by
+line
+thankyou
+const routes = require("express").Router()
+const {login , auth } = require("./../controller/mainContainer")
+const stre = require("./../controller/bufferStreams")
+
+routes.get("/login",login)
+routes.get("/auth",auth)
+routes.get("/read",stre.read)
+
+
+module.exports = routes;const routes = require("express").Router()
+const {login , auth } = require("./../controller/mainContainer")
+const stre = require("./../controller/bufferStreams")
+
+routes.get("/login",login)
+routes.get("/auth",auth)
+routes.get("/read",stre.read)
+
+
+module.exports = routes;const routes = require("express").Router()
+const {login , auth } = require("./../controller/mainContainer")
+const stre = require("./../controller/bufferStreams")
+
+routes.get("/login",login)
+routes.get("/auth",auth)
+routes.get("/read",stre.read)
+
+
+module.exports = routes;const routes = require("express").Router()
+const {login , auth } = require("./../controller/mainContainer")
+const stre = require("./../controller/bufferStreams")
+
+routes.get("/login",login)
+routes.get("/auth",auth)
+routes.get("/read",stre.read)
+
+
+module.exports = routes;const routes = require("express").Router()
+const {login , auth } = require("./../controller/mainContainer")
+const stre = require("./../controller/bufferStreams")
+
+routes.get("/login",login)
+routes.get("/auth",auth)
+routes.get("/read",stre.read)
+
+
+module.exports = routes;const routes = require("express").Router()
+const {login , auth } = require("./../controller/mainContainer")
+const stre = require("./../controller/bufferStreams")
+
+routes.get("/login",login)
+routes.get("/auth",auth)
+routes.get("/read",stre.read)
+
+
+module.exports = routes;const routes = require("express").Router()
+const {login , auth } = require("./../controller/mainContainer")
+const stre = require("./../controller/bufferStreams")
+
+routes.get("/login",login)
+routes.get("/auth",auth)
+routes.get("/read",stre.read)
+
+
+module.exports = routes;const routes = require("express").Router()
+const {login , auth } = require("./../controller/mainContainer")
+const stre = require("./../controller/bufferStreams")
+
+routes.get("/login",login)
+routes.get("/auth",auth)
+routes.get("/read",stre.read)
+
+
+module.exports = routes;const routes = require("express").Router()
+const {login , auth } = require("./../controller/mainContainer")
+const stre = require("./../controller/bufferStreams")
+
+routes.get("/login",login)
+routes.get("/auth",auth)
+routes.get("/read",stre.read)
+
+
+module.exports = routes;const routes = require("express").Router()
+const {login , auth } = require("./../controller/mainContainer")
+const stre = require("./../controller/bufferStreams")
+
+routes.get("/login",login)
+routes.get("/auth",auth)
+routes.get("/read",stre.read)
+
+
+module.exports = routes;const routes = require("express").Router()
+const {login , auth } = require("./../controller/mainContainer")
+const stre = require("./../controller/bufferStreams")
+
+routes.get("/login",login)
+routes.get("/auth",auth)
+routes.get("/read",stre.read)
+
+
+module.exports = routes;const routes = require("express").Router()
+const {login , auth } = require("./../controller/mainContainer")
+const stre = require("./../controller/bufferStreams")
+
+routes.get("/login",login)
+routes.get("/auth",auth)
+routes.get("/read",stre.read)
+
+
+module.exports = routes;const routes = require("express").Router()
+const {login , auth } = require("./../controller/mainContainer")
+const stre = require("./../controller/bufferStreams")
+
+routes.get("/login",login)
+routes.get("/auth",auth)
+routes.get("/read",stre.read)
+
+
+module.exports = routes;const routes = require("express").Router()
+const {login , auth } = require("./../controller/mainContainer")
+const stre = require("./../controller/bufferStreams")
+
+routes.get("/login",login)
+routes.get("/auth",auth)
+routes.get("/read",stre.read)
+
+
+module.exports = routes;const routes = require("express").Router()
+const {login , auth } = require("./../controller/mainContainer")
+const stre = require("./../controller/bufferStreams")
+
+routes.get("/login",login)
+routes.get("/auth",auth)
+routes.get("/read",stre.read)
+
+
+module.exports = routes;const routes = require("express").Router()
+const {login , auth } = require("./../controller/mainContainer")
+const stre = require("./../controller/bufferStreams")
+
+routes.get("/login",login)
+routes.get("/auth",auth)
+routes.get("/read",stre.read)
+
+
+module.exports = routes;const routes = require("express").Router()
+const {login , auth } = require("./../controller/mainContainer")
+const stre = require("./../controller/bufferStreams")
+
+routes.get("/login",login)
+routes.get("/auth",auth)
+routes.get("/read",stre.read)
+
+
+module.exports = routes;const routes = require("express").Router()
+const {login , auth } = require("./../controller/mainContainer")
+const stre = require("./../controller/bufferStreams")
+
+routes.get("/login",login)
+routes.get("/auth",auth)
+routes.get("/read",stre.read)
+
+
+module.exports = routes;const routes = require("express").Router()
+const {login , auth } = require("./../controller/mainContainer")
+const stre = require("./../controller/bufferStreams")
+
+routes.get("/login",login)
+routes.get("/auth",auth)
+routes.get("/read",stre.read)
+
+
+module.exports = routes;const routes = require("express").Router()
+const {login , auth } = require("./../controller/mainContainer")
+const stre = require("./../controller/bufferStreams")
+
+routes.get("/login",login)
+routes.get("/auth",auth)
+routes.get("/read",stre.read)
+
+
+module.exports = routes;const routes = require("express").Router()
+const {login , auth } = require("./../controller/mainContainer")
+const stre = require("./../controller/bufferStreams")
+
+routes.get("/login",login)
+routes.get("/auth",auth)
+routes.get("/read",stre.read)
+
+
+module.exports = routes;const routes = require("express").Router()
+const {login , auth } = require("./../controller/mainContainer")
+const stre = require("./../controller/bufferStreams")
+
+routes.get("/login",login)
+routes.get("/auth",auth)
+routes.get("/read",stre.read)
+
+
+module.exports = routes;const routes = require("express").Router()
+const {login , auth } = require("./../controller/mainContainer")
+const stre = require("./../controller/bufferStreams")
+hello
+i
+need
+to 
+read
+this
+file
+line
+by
+line
+thankyou
+const routes = require("express").Router()
+const {login , auth } = require("./../controller/mainContainer")
+const stre = require("./../controller/bufferStreams")
+
+routes.get("/login",login)
+routes.get("/auth",auth)
+routes.get("/read",stre.read)
+
+
+module.exports = routes;const routes = require("express").Router()
+const {login , auth } = require("./../controller/mainContainer")
+const stre = require("./../controller/bufferStreams")
+
+routes.get("/login",login)
+routes.get("/auth",auth)
+routes.get("/read",stre.read)
+
+
+module.exports = routes;const routes = require("express").Router()
+const {login , auth } = require("./../controller/mainContainer")
+const stre = require("./../controller/bufferStreams")
+
+routes.get("/login",login)
+routes.get("/auth",auth)
+routes.get("/read",stre.read)
+
+
+module.exports = routes;const routes = require("express").Router()
+const {login , auth } = require("./../controller/mainContainer")
+const stre = require("./../controller/bufferStreams")
+
+routes.get("/login",login)
+routes.get("/auth",auth)
+routes.get("/read",stre.read)
+
+
+module.exports = routes;const routes = require("express").Router()
+const {login , auth } = require("./../controller/mainContainer")
+const stre = require("./../controller/bufferStreams")
+
+routes.get("/login",login)
+routes.get("/auth",auth)
+routes.get("/read",stre.read)
+
+
+module.exports = routes;const routes = require("express").Router()
+const {login , auth } = require("./../controller/mainContainer")
+const stre = require("./../controller/bufferStreams")
+
+routes.get("/login",login)
+routes.get("/auth",auth)
+routes.get("/read",stre.read)
+
+
+module.exports = routes;const routes = require("express").Router()
+const {login , auth } = require("./../controller/mainContainer")
+const stre = require("./../controller/bufferStreams")
+
+routes.get("/login",login)
+routes.get("/auth",auth)
+routes.get("/read",stre.read)
+
+
+module.exports = routes;const routes = require("express").Router()
+const {login , auth } = require("./../controller/mainContainer")
+const stre = require("./../controller/bufferStreams")
+
+routes.get("/login",login)
+routes.get("/auth",auth)
+routes.get("/read",stre.read)
+
+
+module.exports = routes;const routes = require("express").Router()
+const {login , auth } = require("./../controller/mainContainer")
+const stre = require("./../controller/bufferStreams")
+
+routes.get("/login",login)
+routes.get("/auth",auth)
+routes.get("/read",stre.read)
+
+
+module.exports = routes;const routes = require("express").Router()
+const {login , auth } = require("./../controller/mainContainer")
+const stre = require("./../controller/bufferStreams")
+
+routes.get("/login",login)
+routes.get("/auth",auth)
+routes.get("/read",stre.read)
+
+
+module.exports = routes;const routes = require("express").Router()
+const {login , auth } = require("./../controller/mainContainer")
+const stre = require("./../controller/bufferStreams")
+
+routes.get("/login",login)
+routes.get("/auth",auth)
+routes.get("/read",stre.read)
+
+
+module.exports = routes;const routes = require("express").Router()
+const {login , auth } = require("./../controller/mainContainer")
+const stre = require("./../controller/bufferStreams")
+
+routes.get("/login",login)
+routes.get("/auth",auth)
+routes.get("/read",stre.read)
+
+
+module.exports = routes;const routes = require("express").Router()
+const {login , auth } = require("./../controller/mainContainer")
+const stre = require("./../controller/bufferStreams")
+
+routes.get("/login",login)
+routes.get("/auth",auth)
+routes.get("/read",stre.read)
+
+
+module.exports = routes;const routes = require("express").Router()
+const {login , auth } = require("./../controller/mainContainer")
+const stre = require("./../controller/bufferStreams")
+
+routes.get("/login",login)
+routes.get("/auth",auth)
+routes.get("/read",stre.read)
+
+
+module.exports = routes;const routes = require("express").Router()
+const {login , auth } = require("./../controller/mainContainer")
+const stre = require("./../controller/bufferStreams")
+
+routes.get("/login",login)
+routes.get("/auth",auth)
+routes.get("/read",stre.read)
+
+
+module.exports = routes;const routes = require("express").Router()
+const {login , auth } = require("./../controller/mainContainer")
+const stre = require("./../controller/bufferStreams")
+
+routes.get("/login",login)
+routes.get("/auth",auth)
+routes.get("/read",stre.read)
+
+
+module.exports = routes;const routes = require("express").Router()
+const {login , auth } = require("./../controller/mainContainer")
+const stre = require("./../controller/bufferStreams")
+
+routes.get("/login",login)
+routes.get("/auth",auth)
+routes.get("/read",stre.read)
+
+
+module.exports = routes;const routes = require("express").Router()
+const {login , auth } = require("./../controller/mainContainer")
+const stre = require("./../controller/bufferStreams")
+
+routes.get("/login",login)
+routes.get("/auth",auth)
+routes.get("/read",stre.read)
+
+
+module.exports = routes;const routes = require("express").Router()
+const {login , auth } = require("./../controller/mainContainer")
+const stre = require("./../controller/bufferStreams")
+
+routes.get("/login",login)
+routes.get("/auth",auth)
+routes.get("/read",stre.read)
+
+
+module.exports = routes;const routes = require("express").Router()
+const {login , auth } = require("./../controller/mainContainer")
+const stre = require("./../controller/bufferStreams")
+
+routes.get("/login",login)
+routes.get("/auth",auth)
+routes.get("/read",stre.read)
+
+
+module.exports = routes;const routes = require("express").Router()
+const {login , auth } = require("./../controller/mainContainer")
+const stre = require("./../controller/bufferStreams")
+
+routes.get("/login",login)
+routes.get("/auth",auth)
+routes.get("/read",stre.read)
+
+
+module.exports = routes;const routes = require("express").Router()
+const {login , auth } = require("./../controller/mainContainer")
+const stre = require("./../controller/bufferStreams")
+
+routes.get("/login",login)
+routes.get("/auth",auth)
+routes.get("/read",stre.read)
+
+
+module.exports = routes;const routes = require("express").Router()
+const {login , auth } = require("./../controller/mainContainer")
+const stre = require("./../controller/bufferStreams")
+
+routes.get("/login",login)
+routes.get("/auth",auth)
+routes.get("/read",stre.read)
+
+
+module.exports = routes;const routes = require("express").Router()
+const {login , auth } = require("./../controller/mainContainer")
+const stre = require("./../controller/bufferStreams")
+
+routes.get("/login",login)
+routes.get("/auth",auth)
+routes.get("/read",stre.read)
+
+
+module.exports = routes;hello
+i
+need
+to 
+read
+this
+file
+line
+by
+line
+thankyou
+const routes = require("express").Router()
+const {login , auth } = require("./../controller/mainContainer")
+const stre = require("./../controller/bufferStreams")
+
+routes.get("/login",login)
+routes.get("/auth",auth)
+routes.get("/read",stre.read)
+
+
+module.exports = routes;const routes = require("express").Router()
+const {login , auth } = require("./../controller/mainContainer")
+const stre = require("./../controller/bufferStreams")
+
+routes.get("/login",login)
+routes.get("/auth",auth)
+routes.get("/read",stre.read)
+
+
+module.exports = routes;const routes = require("express").Router()
+const {login , auth } = require("./../controller/mainContainer")
+const stre = require("./../controller/bufferStreams")
+
+routes.get("/login",login)
+routes.get("/auth",auth)
+routes.get("/read",stre.read)
+
+
+module.exports = routes;const routes = require("express").Router()
+const {login , auth } = require("./../controller/mainContainer")
+const stre = require("./../controller/bufferStreams")
+
+routes.get("/login",login)
+routes.get("/auth",auth)
+routes.get("/read",stre.read)
+
+
+module.exports = routes;const routes = require("express").Router()
+const {login , auth } = require("./../controller/mainContainer")
+const stre = require("./../controller/bufferStreams")
+
+routes.get("/login",login)
+routes.get("/auth",auth)
+routes.get("/read",stre.read)
+
+
+module.exports = routes;const routes = require("express").Router()
+const {login , auth } = require("./../controller/mainContainer")
+const stre = require("./../controller/bufferStreams")
+
+routes.get("/login",login)
+routes.get("/auth",auth)
+routes.get("/read",stre.read)
+
+
+module.exports = routes;const routes = require("express").Router()
+const {login , auth } = require("./../controller/mainContainer")
+const stre = require("./../controller/bufferStreams")
+
+routes.get("/login",login)
+routes.get("/auth",auth)
+routes.get("/read",stre.read)
+
+
+module.exports = routes;const routes = require("express").Router()
+const {login , auth } = require("./../controller/mainContainer")
+const stre = require("./../controller/bufferStreams")
+
+routes.get("/login",login)
+routes.get("/auth",auth)
+routes.get("/read",stre.read)
+
+
+module.exports = routes;const routes = require("express").Router()
+const {login , auth } = require("./../controller/mainContainer")
+const stre = require("./../controller/bufferStreams")
+
+routes.get("/login",login)
+routes.get("/auth",auth)
+routes.get("/read",stre.read)
+
+
+module.exports = routes;const routes = require("express").Router()
+const {login , auth } = require("./../controller/mainContainer")
+const stre = require("./../controller/bufferStreams")
+
+routes.get("/login",login)
+routes.get("/auth",auth)
+routes.get("/read",stre.read)
+
+
+module.exports = routes;const routes = require("express").Router()
+const {login , auth } = require("./../controller/mainContainer")
+const stre = require("./../controller/bufferStreams")
+
+routes.get("/login",login)
+routes.get("/auth",auth)
+routes.get("/read",stre.read)
+
+
+module.exports = routes;const routes = require("express").Router()
+const {login , auth } = require("./../controller/mainContainer")
+const stre = require("./../controller/bufferStreams")
+
+routes.get("/login",login)
+routes.get("/auth",auth)
+routes.get("/read",stre.read)
+
+
+module.exports = routes;const routes = require("express").Router()
+const {login , auth } = require("./../controller/mainContainer")
+const stre = require("./../controller/bufferStreams")
+
+routes.get("/login",login)
+routes.get("/auth",auth)
+routes.get("/read",stre.read)
+
+
+module.exports = routes;const routes = require("express").Router()
+const {login , auth } = require("./../controller/mainContainer")
+const stre = require("./../controller/bufferStreams")
+
+routes.get("/login",login)
+routes.get("/auth",auth)
+routes.get("/read",stre.read)
+
+
+module.exports = routes;const routes = require("express").Router()
+const {login , auth } = require("./../controller/mainContainer")
+const stre = require("./../controller/bufferStreams")
+
+routes.get("/login",login)
+routes.get("/auth",auth)
+routes.get("/read",stre.read)
+
+
+module.exports = routes;const routes = require("express").Router()
+const {login , auth } = require("./../controller/mainContainer")
+const stre = require("./../controller/bufferStreams")
+
+routes.get("/login",login)
+routes.get("/auth",auth)
+routes.get("/read",stre.read)
+
+
+module.exports = routes;const routes = require("express").Router()
+const {login , auth } = require("./../controller/mainContainer")
+const stre = require("./../controller/bufferStreams")
+
+routes.get("/login",login)
+routes.get("/auth",auth)
+routes.get("/read",stre.read)
+
+
+module.exports = routes;const routes = require("express").Router()
+const {login , auth } = require("./../controller/mainContainer")
+const stre = require("./../controller/bufferStreams")
+
+routes.get("/login",login)
+routes.get("/auth",auth)
+routes.get("/read",stre.read)
+
+
+module.exports = routes;const routes = require("express").Router()
+const {login , auth } = require("./../controller/mainContainer")
+const stre = require("./../controller/bufferStreams")
+
+routes.get("/login",login)
+routes.get("/auth",auth)
+routes.get("/read",stre.read)
+
+
+module.exports = routes;const routes = require("express").Router()
+const {login , auth } = require("./../controller/mainContainer")
+const stre = require("./../controller/bufferStreams")
+
+routes.get("/login",login)
+routes.get("/auth",auth)
+routes.get("/read",stre.read)
+
+
+module.exports = routes;const routes = require("express").Router()
+const {login , auth } = require("./../controller/mainContainer")
+const stre = require("./../controller/bufferStreams")
+
+routes.get("/login",login)
+routes.get("/auth",auth)
+routes.get("/read",stre.read)
+
+
+module.exports = routes;const routes = require("express").Router()
+const {login , auth } = require("./../controller/mainContainer")
+const stre = require("./../controller/bufferStreams")
+
+routes.get("/login",login)
+routes.get("/auth",auth)
+routes.get("/read",stre.read)
+
+
+module.exports = routes;const routes = require("express").Router()
+const {login , auth } = require("./../controller/mainContainer")
+const stre = require("./../controller/bufferStreams")
+
+routes.get("/login",login)
+routes.get("/auth",auth)
+routes.get("/read",stre.read)
+
+
+module.exports = routes;const routes = require("express").Router()
+const {login , auth } = require("./../controller/mainContainer")
+const stre = require("./../controller/bufferStreams")
+
+routes.get("/login",login)
+routes.get("/auth",auth)
+routes.get("/read",stre.read)
+
+
+module.exports = routes;hello
+i
+need
+to 
+read
+this
+file
+line
+by
+line
+thankyou
+const routes = require("express").Router()
+const {login , auth } = require("./../controller/mainContainer")
+const stre = require("./../controller/bufferStreams")
+
+routes.get("/login",login)
+routes.get("/auth",auth)
+routes.get("/read",stre.read)
+
+
+module.exports = routes;const routes = require("express").Router()
+const {login , auth } = require("./../controller/mainContainer")
+const stre = require("./../controller/bufferStreams")
+
+routes.get("/login",login)
+routes.get("/auth",auth)
+routes.get("/read",stre.read)
+
+
+module.exports = routes;const routes = require("express").Router()
+const {login , auth } = require("./../controller/mainContainer")
+const stre = require("./../controller/bufferStreams")
+
+routes.get("/login",login)
+routes.get("/auth",auth)
+routes.get("/read",stre.read)
+
+
+module.exports = routes;const routes = require("express").Router()
+const {login , auth } = require("./../controller/mainContainer")
+const stre = require("./../controller/bufferStreams")
+
+routes.get("/login",login)
+routes.get("/auth",auth)
+routes.get("/read",stre.read)
+
+
+module.exports = routes;const routes = require("express").Router()
+const {login , auth } = require("./../controller/mainContainer")
+const stre = require("./../controller/bufferStreams")
+
+routes.get("/login",login)
+routes.get("/auth",auth)
+routes.get("/read",stre.read)
+
+
+module.exports = routes;const routes = require("express").Router()
+const {login , auth } = require("./../controller/mainContainer")
+const stre = require("./../controller/bufferStreams")
+
+routes.get("/login",login)
+routes.get("/auth",auth)
+routes.get("/read",stre.read)
+
+
+module.exports = routes;const routes = require("express").Router()
+const {login , auth } = require("./../controller/mainContainer")
+const stre = require("./../controller/bufferStreams")
+
+routes.get("/login",login)
+routes.get("/auth",auth)
+routes.get("/read",stre.read)
+
+
+module.exports = routes;const routes = require("express").Router()
+const {login , auth } = require("./../controller/mainContainer")
+const stre = require("./../controller/bufferStreams")
+
+routes.get("/login",login)
+routes.get("/auth",auth)
+routes.get("/read",stre.read)
+
+
+module.exports = routes;const routes = require("express").Router()
+const {login , auth } = require("./../controller/mainContainer")
+const stre = require("./../controller/bufferStreams")
+
+routes.get("/login",login)
+routes.get("/auth",auth)
+routes.get("/read",stre.read)
+
+
+module.exports = routes;const routes = require("express").Router()
+const {login , auth } = require("./../controller/mainContainer")
+const stre = require("./../controller/bufferStreams")
+
+routes.get("/login",login)
+routes.get("/auth",auth)
+routes.get("/read",stre.read)
+
+
+module.exports = routes;const routes = require("express").Router()
+const {login , auth } = require("./../controller/mainContainer")
+const stre = require("./../controller/bufferStreams")
+
+routes.get("/login",login)
+routes.get("/auth",auth)
+routes.get("/read",stre.read)
+
+
+module.exports = routes;const routes = require("express").Router()
+const {login , auth } = require("./../controller/mainContainer")
+const stre = require("./../controller/bufferStreams")
+
+routes.get("/login",login)
+routes.get("/auth",auth)
+routes.get("/read",stre.read)
+
+
+module.exports = routes;const routes = require("express").Router()
+const {login , auth } = require("./../controller/mainContainer")
+const stre = require("./../controller/bufferStreams")
+
+routes.get("/login",login)
+routes.get("/auth",auth)
+routes.get("/read",stre.read)
+
+
+module.exports = routes;const routes = require("express").Router()
+const {login , auth } = require("./../controller/mainContainer")
+const stre = require("./../controller/bufferStreams")
+
+routes.get("/login",login)
+routes.get("/auth",auth)
+routes.get("/read",stre.read)
+
+
+module.exports = routes;const routes = require("express").Router()
+const {login , auth } = require("./../controller/mainContainer")
+const stre = require("./../controller/bufferStreams")
+
+routes.get("/login",login)
+routes.get("/auth",auth)
+routes.get("/read",stre.read)
+
+
+module.exports = routes;const routes = require("express").Router()
+const {login , auth } = require("./../controller/mainContainer")
+const stre = require("./../controller/bufferStreams")
+
+routes.get("/login",login)
+routes.get("/auth",auth)
+routes.get("/read",stre.read)
+
+
+module.exports = routes;const routes = require("express").Router()
+const {login , auth } = require("./../controller/mainContainer")
+const stre = require("./../controller/bufferStreams")
+
+routes.get("/login",login)
+routes.get("/auth",auth)
+routes.get("/read",stre.read)
+
+
+module.exports = routes;const routes = require("express").Router()
+const {login , auth } = require("./../controller/mainContainer")
+const stre = require("./../controller/bufferStreams")
+
+routes.get("/login",login)
+routes.get("/auth",auth)
+routes.get("/read",stre.read)
+
+
+module.exports = routes;const routes = require("express").Router()
+const {login , auth } = require("./../controller/mainContainer")
+const stre = require("./../controller/bufferStreams")
+
+routes.get("/login",login)
+routes.get("/auth",auth)
+routes.get("/read",stre.read)
+
+
+module.exports = routes;const routes = require("express").Router()
+const {login , auth } = require("./../controller/mainContainer")
+const stre = require("./../controller/bufferStreams")
+
+routes.get("/login",login)
+routes.get("/auth",auth)
+routes.get("/read",stre.read)
+
+
+module.exports = routes;const routes = require("express").Router()
+const {login , auth } = require("./../controller/mainContainer")
+const stre = require("./../controller/bufferStreams")
+
+routes.get("/login",login)
+routes.get("/auth",auth)
+routes.get("/read",stre.read)
+
+
+module.exports = routes;const routes = require("express").Router()
+const {login , auth } = require("./../controller/mainContainer")
+const stre = require("./../controller/bufferStreams")
+
+routes.get("/login",login)
+routes.get("/auth",auth)
+routes.get("/read",stre.read)
+
+
+module.exports = routes;const routes = require("express").Router()
+const {login , auth } = require("./../controller/mainContainer")
+const stre = require("./../controller/bufferStreams")
+hello
+i
+need
+to 
+read
+this
+file
+line
+by
+line
+thankyou
+const routes = require("express").Router()
+const {login , auth } = require("./../controller/mainContainer")
+const stre = require("./../controller/bufferStreams")
+
+routes.get("/login",login)
+routes.get("/auth",auth)
+routes.get("/read",stre.read)
+
+
+module.exports = routes;const routes = require("express").Router()
+const {login , auth } = require("./../controller/mainContainer")
+const stre = require("./../controller/bufferStreams")
+
+routes.get("/login",login)
+routes.get("/auth",auth)
+routes.get("/read",stre.read)
+
+
+module.exports = routes;const routes = require("express").Router()
+const {login , auth } = require("./../controller/mainContainer")
+const stre = require("./../controller/bufferStreams")
+
+routes.get("/login",login)
+routes.get("/auth",auth)
+routes.get("/read",stre.read)
+
+
+module.exports = routes;const routes = require("express").Router()
+const {login , auth } = require("./../controller/mainContainer")
+const stre = require("./../controller/bufferStreams")
+
+routes.get("/login",login)
+routes.get("/auth",auth)
+routes.get("/read",stre.read)
+
+
+module.exports = routes;const routes = require("express").Router()
+const {login , auth } = require("./../controller/mainContainer")
+const stre = require("./../controller/bufferStreams")
+
+routes.get("/login",login)
+routes.get("/auth",auth)
+routes.get("/read",stre.read)
+
+
+module.exports = routes;const routes = require("express").Router()
+const {login , auth } = require("./../controller/mainContainer")
+const stre = require("./../controller/bufferStreams")
+
+routes.get("/login",login)
+routes.get("/auth",auth)
+routes.get("/read",stre.read)
+
+
+module.exports = routes;const routes = require("express").Router()
+const {login , auth } = require("./../controller/mainContainer")
+const stre = require("./../controller/bufferStreams")
+
+routes.get("/login",login)
+routes.get("/auth",auth)
+routes.get("/read",stre.read)
+
+
+module.exports = routes;const routes = require("express").Router()
+const {login , auth } = require("./../controller/mainContainer")
+const stre = require("./../controller/bufferStreams")
+
+routes.get("/login",login)
+routes.get("/auth",auth)
+routes.get("/read",stre.read)
+
+
+module.exports = routes;const routes = require("express").Router()
+const {login , auth } = require("./../controller/mainContainer")
+const stre = require("./../controller/bufferStreams")
+
+routes.get("/login",login)
+routes.get("/auth",auth)
+routes.get("/read",stre.read)
+
+
+module.exports = routes;const routes = require("express").Router()
+const {login , auth } = require("./../controller/mainContainer")
+const stre = require("./../controller/bufferStreams")
+
+routes.get("/login",login)
+routes.get("/auth",auth)
+routes.get("/read",stre.read)
+
+
+module.exports = routes;const routes = require("express").Router()
+const {login , auth } = require("./../controller/mainContainer")
+const stre = require("./../controller/bufferStreams")
+
+routes.get("/login",login)
+routes.get("/auth",auth)
+routes.get("/read",stre.read)
+
+
+module.exports = routes;const routes = require("express").Router()
+const {login , auth } = require("./../controller/mainContainer")
+const stre = require("./../controller/bufferStreams")
+
+routes.get("/login",login)
+routes.get("/auth",auth)
+routes.get("/read",stre.read)
+
+
+module.exports = routes;const routes = require("express").Router()
+const {login , auth } = require("./../controller/mainContainer")
+const stre = require("./../controller/bufferStreams")
+
+routes.get("/login",login)
+routes.get("/auth",auth)
+routes.get("/read",stre.read)
+
+
+module.exports = routes;const routes = require("express").Router()
+const {login , auth } = require("./../controller/mainContainer")
+const stre = require("./../controller/bufferStreams")
+
+routes.get("/login",login)
+routes.get("/auth",auth)
+routes.get("/read",stre.read)
+
+
+module.exports = routes;const routes = require("express").Router()
+const {login , auth } = require("./../controller/mainContainer")
+const stre = require("./../controller/bufferStreams")
+
+routes.get("/login",login)
+routes.get("/auth",auth)
+routes.get("/read",stre.read)
+
+
+module.exports = routes;const routes = require("express").Router()
+const {login , auth } = require("./../controller/mainContainer")
+const stre = require("./../controller/bufferStreams")
+
+routes.get("/login",login)
+routes.get("/auth",auth)
+routes.get("/read",stre.read)
+
+
+module.exports = routes;const routes = require("express").Router()
+const {login , auth } = require("./../controller/mainContainer")
+const stre = require("./../controller/bufferStreams")
+
+routes.get("/login",login)
+routes.get("/auth",auth)
+routes.get("/read",stre.read)
+
+
+module.exports = routes;const routes = require("express").Router()
+const {login , auth } = require("./../controller/mainContainer")
+const stre = require("./../controller/bufferStreams")
+
+routes.get("/login",login)
+routes.get("/auth",auth)
+routes.get("/read",stre.read)
+
+
+module.exports = routes;const routes = require("express").Router()
+const {login , auth } = require("./../controller/mainContainer")
+const stre = require("./../controller/bufferStreams")
+
+routes.get("/login",login)
+routes.get("/auth",auth)
+routes.get("/read",stre.read)
+
+
+module.exports = routes;const routes = require("express").Router()
+const {login , auth } = require("./../controller/mainContainer")
+const stre = require("./../controller/bufferStreams")
+
+routes.get("/login",login)
+routes.get("/auth",auth)
+routes.get("/read",stre.read)
+
+
+module.exports = routes;const routes = require("express").Router()
+const {login , auth } = require("./../controller/mainContainer")
+const stre = require("./../controller/bufferStreams")
+
+routes.get("/login",login)
+routes.get("/auth",auth)
+routes.get("/read",stre.read)
+
+
+module.exports = routes;const routes = require("express").Router()
+const {login , auth } = require("./../controller/mainContainer")
+const stre = require("./../controller/bufferStreams")
+
+routes.get("/login",login)
+routes.get("/auth",auth)
+routes.get("/read",stre.read)
+
+
+module.exports = routes;const routes = require("express").Router()
+const {login , auth } = require("./../controller/mainContainer")
+const stre = require("./../controller/bufferStreams")
+
+routes.get("/login",login)
+routes.get("/auth",auth)
+routes.get("/read",stre.read)
+
+
+module.exports = routes;const routes = require("express").Router()
+const {login , auth } = require("./../controller/mainContainer")
+const stre = require("./../controller/bufferStreams")
+
+routes.get("/login",login)
+routes.get("/auth",auth)
+routes.get("/read",stre.read)
+
+
+module.exports = routes;hello
+i
+need
+to 
+read
+this
+file
+line
+by
+line
+thankyou
+const routes = require("express").Router()
+const {login , auth } = require("./../controller/mainContainer")
+const stre = require("./../controller/bufferStreams")
+
+routes.get("/login",login)
+routes.get("/auth",auth)
+routes.get("/read",stre.read)
+
+
+module.exports = routes;const routes = require("express").Router()
+const {login , auth } = require("./../controller/mainContainer")
+const stre = require("./../controller/bufferStreams")
+
+routes.get("/login",login)
+routes.get("/auth",auth)
+routes.get("/read",stre.read)
+
+
+module.exports = routes;const routes = require("express").Router()
+const {login , auth } = require("./../controller/mainContainer")
+const stre = require("./../controller/bufferStreams")
+
+routes.get("/login",login)
+routes.get("/auth",auth)
+routes.get("/read",stre.read)
+
+
+module.exports = routes;const routes = require("express").Router()
+const {login , auth } = require("./../controller/mainContainer")
+const stre = require("./../controller/bufferStreams")
+
+routes.get("/login",login)
+routes.get("/auth",auth)
+routes.get("/read",stre.read)
+
+
+module.exports = routes;const routes = require("express").Router()
+const {login , auth } = require("./../controller/mainContainer")
+const stre = require("./../controller/bufferStreams")
+
+routes.get("/login",login)
+routes.get("/auth",auth)
+routes.get("/read",stre.read)
+
+
+module.exports = routes;const routes = require("express").Router()
+const {login , auth } = require("./../controller/mainContainer")
+const stre = require("./../controller/bufferStreams")
+
+routes.get("/login",login)
+routes.get("/auth",auth)
+routes.get("/read",stre.read)
+
+
+module.exports = routes;const routes = require("express").Router()
+const {login , auth } = require("./../controller/mainContainer")
+const stre = require("./../controller/bufferStreams")
+
+routes.get("/login",login)
+routes.get("/auth",auth)
+routes.get("/read",stre.read)
+
+
+module.exports = routes;const routes = require("express").Router()
+const {login , auth } = require("./../controller/mainContainer")
+const stre = require("./../controller/bufferStreams")
+
+routes.get("/login",login)
+routes.get("/auth",auth)
+routes.get("/read",stre.read)
+
+
+module.exports = routes;const routes = require("express").Router()
+const {login , auth } = require("./../controller/mainContainer")
+const stre = require("./../controller/bufferStreams")
+
+routes.get("/login",login)
+routes.get("/auth",auth)
+routes.get("/read",stre.read)
+
+
+module.exports = routes;const routes = require("express").Router()
+const {login , auth } = require("./../controller/mainContainer")
+const stre = require("./../controller/bufferStreams")
+
+routes.get("/login",login)
+routes.get("/auth",auth)
+routes.get("/read",stre.read)
+
+
+module.exports = routes;const routes = require("express").Router()
+const {login , auth } = require("./../controller/mainContainer")
+const stre = require("./../controller/bufferStreams")
+
+routes.get("/login",login)
+routes.get("/auth",auth)
+routes.get("/read",stre.read)
+
+
+module.exports = routes;const routes = require("express").Router()
+const {login , auth } = require("./../controller/mainContainer")
+const stre = require("./../controller/bufferStreams")
+
+routes.get("/login",login)
+routes.get("/auth",auth)
+routes.get("/read",stre.read)
+
+
+module.exports = routes;const routes = require("express").Router()
+const {login , auth } = require("./../controller/mainContainer")
+const stre = require("./../controller/bufferStreams")
+
+routes.get("/login",login)
+routes.get("/auth",auth)
+routes.get("/read",stre.read)
+
+
+module.exports = routes;const routes = require("express").Router()
+const {login , auth } = require("./../controller/mainContainer")
+const stre = require("./../controller/bufferStreams")
+
+routes.get("/login",login)
+routes.get("/auth",auth)
+routes.get("/read",stre.read)
+
+
+module.exports = routes;const routes = require("express").Router()
+const {login , auth } = require("./../controller/mainContainer")
+const stre = require("./../controller/bufferStreams")
+
+routes.get("/login",login)
+routes.get("/auth",auth)
+routes.get("/read",stre.read)
+
+
+module.exports = routes;const routes = require("express").Router()
+const {login , auth } = require("./../controller/mainContainer")
+const stre = require("./../controller/bufferStreams")
+
+routes.get("/login",login)
+routes.get("/auth",auth)
+routes.get("/read",stre.read)
+
+
+module.exports = routes;const routes = require("express").Router()
+const {login , auth } = require("./../controller/mainContainer")
+const stre = require("./../controller/bufferStreams")
+
+routes.get("/login",login)
+routes.get("/auth",auth)
+routes.get("/read",stre.read)
+
+
+module.exports = routes;const routes = require("express").Router()
+const {login , auth } = require("./../controller/mainContainer")
+const stre = require("./../controller/bufferStreams")
+
+routes.get("/login",login)
+routes.get("/auth",auth)
+routes.get("/read",stre.read)
+
+
+module.exports = routes;const routes = require("express").Router()
+const {login , auth } = require("./../controller/mainContainer")
+const stre = require("./../controller/bufferStreams")
+
+routes.get("/login",login)
+routes.get("/auth",auth)
+routes.get("/read",stre.read)
+
+
+module.exports = routes;const routes = require("express").Router()
+const {login , auth } = require("./../controller/mainContainer")
+const stre = require("./../controller/bufferStreams")
+
+routes.get("/login",login)
+routes.get("/auth",auth)
+routes.get("/read",stre.read)
+
+
+module.exports = routes;const routes = require("express").Router()
+const {login , auth } = require("./../controller/mainContainer")
+const stre = require("./../controller/bufferStreams")
+
+routes.get("/login",login)
+routes.get("/auth",auth)
+routes.get("/read",stre.read)
+
+
+module.exports = routes;const routes = require("express").Router()
+const {login , auth } = require("./../controller/mainContainer")
+const stre = require("./../controller/bufferStreams")
+
+routes.get("/login",login)
+routes.get("/auth",auth)
+routes.get("/read",stre.read)
+
+
+module.exports = routes;const routes = require("express").Router()
+const {login , auth } = require("./../controller/mainContainer")
+const stre = require("./../controller/bufferStreams")
+
+routes.get("/login",login)
+routes.get("/auth",auth)
+routes.get("/read",stre.read)
+
+
+module.exports = routes;const routes = require("express").Router()
+const {login , auth } = require("./../controller/mainContainer")
+const stre = require("./../controller/bufferStreams")
+
+routes.get("/login",login)
+routes.get("/auth",auth)
+routes.get("/read",stre.read)
+
+
+module.exports = routes;hello
+i
+need
+to 
+read
+this
+file
+line
+by
+line
+thankyou
+const routes = require("express").Router()
+const {login , auth } = require("./../controller/mainContainer")
+const stre = require("./../controller/bufferStreams")
+
+routes.get("/login",login)
+routes.get("/auth",auth)
+routes.get("/read",stre.read)
+
+
+module.exports = routes;const routes = require("express").Router()
+const {login , auth } = require("./../controller/mainContainer")
+const stre = require("./../controller/bufferStreams")
+
+routes.get("/login",login)
+routes.get("/auth",auth)
+routes.get("/read",stre.read)
+
+
+module.exports = routes;const routes = require("express").Router()
+const {login , auth } = require("./../controller/mainContainer")
+const stre = require("./../controller/bufferStreams")
+
+routes.get("/login",login)
+routes.get("/auth",auth)
+routes.get("/read",stre.read)
+
+
+module.exports = routes;const routes = require("express").Router()
+const {login , auth } = require("./../controller/mainContainer")
+const stre = require("./../controller/bufferStreams")
+
+routes.get("/login",login)
+routes.get("/auth",auth)
+routes.get("/read",stre.read)
+
+
+module.exports = routes;const routes = require("express").Router()
+const {login , auth } = require("./../controller/mainContainer")
+const stre = require("./../controller/bufferStreams")
+
+routes.get("/login",login)
+routes.get("/auth",auth)
+routes.get("/read",stre.read)
+
+
+module.exports = routes;const routes = require("express").Router()
+const {login , auth } = require("./../controller/mainContainer")
+const stre = require("./../controller/bufferStreams")
+
+routes.get("/login",login)
+routes.get("/auth",auth)
+routes.get("/read",stre.read)
+
+
+module.exports = routes;const routes = require("express").Router()
+const {login , auth } = require("./../controller/mainContainer")
+const stre = require("./../controller/bufferStreams")
+
+routes.get("/login",login)
+routes.get("/auth",auth)
+routes.get("/read",stre.read)
+
+
+module.exports = routes;const routes = require("express").Router()
+const {login , auth } = require("./../controller/mainContainer")
+const stre = require("./../controller/bufferStreams")
+
+routes.get("/login",login)
+routes.get("/auth",auth)
+routes.get("/read",stre.read)
+
+
+module.exports = routes;const routes = require("express").Router()
+const {login , auth } = require("./../controller/mainContainer")
+const stre = require("./../controller/bufferStreams")
+
+routes.get("/login",login)
+routes.get("/auth",auth)
+routes.get("/read",stre.read)
+
+
+module.exports = routes;const routes = require("express").Router()
+const {login , auth } = require("./../controller/mainContainer")
+const stre = require("./../controller/bufferStreams")
+
+routes.get("/login",login)
+routes.get("/auth",auth)
+routes.get("/read",stre.read)
+
+
+module.exports = routes;const routes = require("express").Router()
+const {login , auth } = require("./../controller/mainContainer")
+const stre = require("./../controller/bufferStreams")
+
+routes.get("/login",login)
+routes.get("/auth",auth)
+routes.get("/read",stre.read)
+
+
+module.exports = routes;const routes = require("express").Router()
+const {login , auth } = require("./../controller/mainContainer")
+const stre = require("./../controller/bufferStreams")
+
+routes.get("/login",login)
+routes.get("/auth",auth)
+routes.get("/read",stre.read)
+
+
+module.exports = routes;const routes = require("express").Router()
+const {login , auth } = require("./../controller/mainContainer")
+const stre = require("./../controller/bufferStreams")
+
+routes.get("/login",login)
+routes.get("/auth",auth)
+routes.get("/read",stre.read)
+
+
+module.exports = routes;const routes = require("express").Router()
+const {login , auth } = require("./../controller/mainContainer")
+const stre = require("./../controller/bufferStreams")
+
+routes.get("/login",login)
+routes.get("/auth",auth)
+routes.get("/read",stre.read)
+
+
+module.exports = routes;const routes = require("express").Router()
+const {login , auth } = require("./../controller/mainContainer")
+const stre = require("./../controller/bufferStreams")
+
+routes.get("/login",login)
+routes.get("/auth",auth)
+routes.get("/read",stre.read)
+
+
+module.exports = routes;const routes = require("express").Router()
+const {login , auth } = require("./../controller/mainContainer")
+const stre = require("./../controller/bufferStreams")
+
+routes.get("/login",login)
+routes.get("/auth",auth)
+routes.get("/read",stre.read)
+
+
+module.exports = routes;const routes = require("express").Router()
+const {login , auth } = require("./../controller/mainContainer")
+const stre = require("./../controller/bufferStreams")
+
+routes.get("/login",login)
+routes.get("/auth",auth)
+routes.get("/read",stre.read)
+
+
+module.exports = routes;const routes = require("express").Router()
+const {login , auth } = require("./../controller/mainContainer")
+const stre = require("./../controller/bufferStreams")
+
+routes.get("/login",login)
+routes.get("/auth",auth)
+routes.get("/read",stre.read)
+
+
+module.exports = routes;const routes = require("express").Router()
+const {login , auth } = require("./../controller/mainContainer")
+const stre = require("./../controller/bufferStreams")
+
+routes.get("/login",login)
+routes.get("/auth",auth)
+routes.get("/read",stre.read)
+
+
+module.exports = routes;const routes = require("express").Router()
+const {login , auth } = require("./../controller/mainContainer")
+const stre = require("./../controller/bufferStreams")
+
+routes.get("/login",login)
+routes.get("/auth",auth)
+routes.get("/read",stre.read)
+
+
+module.exports = routes;const routes = require("express").Router()
+const {login , auth } = require("./../controller/mainContainer")
+const stre = require("./../controller/bufferStreams")
+
+routes.get("/login",login)
+routes.get("/auth",auth)
+routes.get("/read",stre.read)
+
+
+module.exports = routes;const routes = require("express").Router()
+const {login , auth } = require("./../controller/mainContainer")
+const stre = require("./../controller/bufferStreams")
+
+routes.get("/login",login)
+routes.get("/auth",auth)
+routes.get("/read",stre.read)
+
+
+module.exports = routes;const routes = require("express").Router()
+const {login , auth } = require("./../controller/mainContainer")
+const stre = require("./../controller/bufferStreams")
+
+routes.get("/login",login)
+routes.get("/auth",auth)
+routes.get("/read",stre.read)
+
+
+module.exports = routes;const routes = require("express").Router()
+const {login , auth } = require("./../controller/mainContainer")
+const stre = require("./../controller/bufferStreams")
+
+routes.get("/login",login)
+routes.get("/auth",auth)
+routes.get("/read",stre.read)
+
+
+module.exports = routes;hello
+i
+need
+to 
+read
+this
+file
+line
+by
+line
+thankyou
+const routes = require("express").Router()
+const {login , auth } = require("./../controller/mainContainer")
+const stre = require("./../controller/bufferStreams")
+
+routes.get("/login",login)
+routes.get("/auth",auth)
+routes.get("/read",stre.read)
+
+
+module.exports = routes;const routes = require("express").Router()
+const {login , auth } = require("./../controller/mainContainer")
+const stre = require("./../controller/bufferStreams")
+
+routes.get("/login",login)
+routes.get("/auth",auth)
+routes.get("/read",stre.read)
+
+
+module.exports = routes;const routes = require("express").Router()
+const {login , auth } = require("./../controller/mainContainer")
+const stre = require("./../controller/bufferStreams")
+
+routes.get("/login",login)
+routes.get("/auth",auth)
+routes.get("/read",stre.read)
+
+
+module.exports = routes;const routes = require("express").Router()
+const {login , auth } = require("./../controller/mainContainer")
+const stre = require("./../controller/bufferStreams")
+
+routes.get("/login",login)
+routes.get("/auth",auth)
+routes.get("/read",stre.read)
+
+
+module.exports = routes;const routes = require("express").Router()
+const {login , auth } = require("./../controller/mainContainer")
+const stre = require("./../controller/bufferStreams")
+
+routes.get("/login",login)
+routes.get("/auth",auth)
+routes.get("/read",stre.read)
+
+
+module.exports = routes;const routes = require("express").Router()
+const {login , auth } = require("./../controller/mainContainer")
+const stre = require("./../controller/bufferStreams")
+
+routes.get("/login",login)
+routes.get("/auth",auth)
+routes.get("/read",stre.read)
+
+
+module.exports = routes;const routes = require("express").Router()
+const {login , auth } = require("./../controller/mainContainer")
+const stre = require("./../controller/bufferStreams")
+
+routes.get("/login",login)
+routes.get("/auth",auth)
+routes.get("/read",stre.read)
+
+
+module.exports = routes;const routes = require("express").Router()
+const {login , auth } = require("./../controller/mainContainer")
+const stre = require("./../controller/bufferStreams")
+
+routes.get("/login",login)
+routes.get("/auth",auth)
+routes.get("/read",stre.read)
+
+
+module.exports = routes;const routes = require("express").Router()
+const {login , auth } = require("./../controller/mainContainer")
+const stre = require("./../controller/bufferStreams")
+
+routes.get("/login",login)
+routes.get("/auth",auth)
+routes.get("/read",stre.read)
+
+
+module.exports = routes;const routes = require("express").Router()
+const {login , auth } = require("./../controller/mainContainer")
+const stre = require("./../controller/bufferStreams")
+
+routes.get("/login",login)
+routes.get("/auth",auth)
+routes.get("/read",stre.read)
+
+
+module.exports = routes;const routes = require("express").Router()
+const {login , auth } = require("./../controller/mainContainer")
+const stre = require("./../controller/bufferStreams")
+
+routes.get("/login",login)
+routes.get("/auth",auth)
+routes.get("/read",stre.read)
+
+
+module.exports = routes;const routes = require("express").Router()
+const {login , auth } = require("./../controller/mainContainer")
+const stre = require("./../controller/bufferStreams")
+
+routes.get("/login",login)
+routes.get("/auth",auth)
+routes.get("/read",stre.read)
+
+
+module.exports = routes;const routes = require("express").Router()
+const {login , auth } = require("./../controller/mainContainer")
+const stre = require("./../controller/bufferStreams")
+
+routes.get("/login",login)
+routes.get("/auth",auth)
+routes.get("/read",stre.read)
+
+
+module.exports = routes;const routes = require("express").Router()
+const {login , auth } = require("./../controller/mainContainer")
+const stre = require("./../controller/bufferStreams")
+
+routes.get("/login",login)
+routes.get("/auth",auth)
+routes.get("/read",stre.read)
+
+
+module.exports = routes;const routes = require("express").Router()
+const {login , auth } = require("./../controller/mainContainer")
+const stre = require("./../controller/bufferStreams")
+
+routes.get("/login",login)
+routes.get("/auth",auth)
+routes.get("/read",stre.read)
+
+
+module.exports = routes;const routes = require("express").Router()
+const {login , auth } = require("./../controller/mainContainer")
+const stre = require("./../controller/bufferStreams")
+
+routes.get("/login",login)
+routes.get("/auth",auth)
+routes.get("/read",stre.read)
+
+
+module.exports = routes;const routes = require("express").Router()
+const {login , auth } = require("./../controller/mainContainer")
+const stre = require("./../controller/bufferStreams")
+
+routes.get("/login",login)
+routes.get("/auth",auth)
+routes.get("/read",stre.read)
+
+
+module.exports = routes;const routes = require("express").Router()
+const {login , auth } = require("./../controller/mainContainer")
+const stre = require("./../controller/bufferStreams")
+
+routes.get("/login",login)
+routes.get("/auth",auth)
+routes.get("/read",stre.read)
+
+
+module.exports = routes;const routes = require("express").Router()
+const {login , auth } = require("./../controller/mainContainer")
+const stre = require("./../controller/bufferStreams")
+
+routes.get("/login",login)
+routes.get("/auth",auth)
+routes.get("/read",stre.read)
+
+
+module.exports = routes;const routes = require("express").Router()
+const {login , auth } = require("./../controller/mainContainer")
+const stre = require("./../controller/bufferStreams")
+
+routes.get("/login",login)
+routes.get("/auth",auth)
+routes.get("/read",stre.read)
+
+
+module.exports = routes;const routes = require("express").Router()
+const {login , auth } = require("./../controller/mainContainer")
+const stre = require("./../controller/bufferStreams")
+
+routes.get("/login",login)
+routes.get("/auth",auth)
+routes.get("/read",stre.read)
+
+
+module.exports = routes;const routes = require("express").Router()
+const {login , auth } = require("./../controller/mainContainer")
+const stre = require("./../controller/bufferStreams")
+
+routes.get("/login",login)
+routes.get("/auth",auth)
+routes.get("/read",stre.read)
+
+
+module.exports = routes;const routes = require("express").Router()
+const {login , auth } = require("./../controller/mainContainer")
+const stre = require("./../controller/bufferStreams")
+
+routes.get("/login",login)
+routes.get("/auth",auth)
+routes.get("/read",stre.read)
+
+
+module.exports = routes;const routes = require("express").Router()
+const {login , auth } = require("./../controller/mainContainer")
+const stre = require("./../controller/bufferStreams")
+
+routes.get("/login",login)
+routes.get("/auth",auth)
+routes.get("/read",stre.read)
+
+
+module.exports = routes;hello
+i
+need
+to 
+read
+this
+file
+line
+by
+line
+thankyou
+const routes = require("express").Router()
+const {login , auth } = require("./../controller/mainContainer")
+const stre = require("./../controller/bufferStreams")
+
+routes.get("/login",login)
+routes.get("/auth",auth)
+routes.get("/read",stre.read)
+
+
+module.exports = routes;const routes = require("express").Router()
+const {login , auth } = require("./../controller/mainContainer")
+const stre = require("./../controller/bufferStreams")
+
+routes.get("/login",login)
+routes.get("/auth",auth)
+routes.get("/read",stre.read)
+
+
+module.exports = routes;const routes = require("express").Router()
+const {login , auth } = require("./../controller/mainContainer")
+const stre = require("./../controller/bufferStreams")
+
+routes.get("/login",login)
+routes.get("/auth",auth)
+routes.get("/read",stre.read)
+
+
+module.exports = routes;const routes = require("express").Router()
+const {login , auth } = require("./../controller/mainContainer")
+const stre = require("./../controller/bufferStreams")
+
+routes.get("/login",login)
+routes.get("/auth",auth)
+routes.get("/read",stre.read)
+
+
+module.exports = routes;const routes = require("express").Router()
+const {login , auth } = require("./../controller/mainContainer")
+const stre = require("./../controller/bufferStreams")
+
+routes.get("/login",login)
+routes.get("/auth",auth)
+routes.get("/read",stre.read)
+
+
+module.exports = routes;const routes = require("express").Router()
+const {login , auth } = require("./../controller/mainContainer")
+const stre = require("./../controller/bufferStreams")
+
+routes.get("/login",login)
+routes.get("/auth",auth)
+routes.get("/read",stre.read)
+
+
+module.exports = routes;const routes = require("express").Router()
+const {login , auth } = require("./../controller/mainContainer")
+const stre = require("./../controller/bufferStreams")
+
+routes.get("/login",login)
+routes.get("/auth",auth)
+routes.get("/read",stre.read)
+
+
+module.exports = routes;const routes = require("express").Router()
+const {login , auth } = require("./../controller/mainContainer")
+const stre = require("./../controller/bufferStreams")
+
+routes.get("/login",login)
+routes.get("/auth",auth)
+routes.get("/read",stre.read)
+
+
+module.exports = routes;const routes = require("express").Router()
+const {login , auth } = require("./../controller/mainContainer")
+const stre = require("./../controller/bufferStreams")
+
+routes.get("/login",login)
+routes.get("/auth",auth)
+routes.get("/read",stre.read)
+
+
+module.exports = routes;const routes = require("express").Router()
+const {login , auth } = require("./../controller/mainContainer")
+const stre = require("./../controller/bufferStreams")
+
+routes.get("/login",login)
+routes.get("/auth",auth)
+routes.get("/read",stre.read)
+
+
+module.exports = routes;const routes = require("express").Router()
+const {login , auth } = require("./../controller/mainContainer")
+const stre = require("./../controller/bufferStreams")
+
+routes.get("/login",login)
+routes.get("/auth",auth)
+routes.get("/read",stre.read)
+
+
+module.exports = routes;const routes = require("express").Router()
+const {login , auth } = require("./../controller/mainContainer")
+const stre = require("./../controller/bufferStreams")
+
+routes.get("/login",login)
+routes.get("/auth",auth)
+routes.get("/read",stre.read)
+
+
+module.exports = routes;const routes = require("express").Router()
+const {login , auth } = require("./../controller/mainContainer")
+const stre = require("./../controller/bufferStreams")
+
+routes.get("/login",login)
+routes.get("/auth",auth)
+routes.get("/read",stre.read)
+
+
+module.exports = routes;const routes = require("express").Router()
+const {login , auth } = require("./../controller/mainContainer")
+const stre = require("./../controller/bufferStreams")
+
+routes.get("/login",login)
+routes.get("/auth",auth)
+routes.get("/read",stre.read)
+
+
+module.exports = routes;const routes = require("express").Router()
+const {login , auth } = require("./../controller/mainContainer")
+const stre = require("./../controller/bufferStreams")
+
+routes.get("/login",login)
+routes.get("/auth",auth)
+routes.get("/read",stre.read)
+
+
+module.exports = routes;const routes = require("express").Router()
+const {login , auth } = require("./../controller/mainContainer")
+const stre = require("./../controller/bufferStreams")
+
+routes.get("/login",login)
+routes.get("/auth",auth)
+routes.get("/read",stre.read)
+
+
+module.exports = routes;const routes = require("express").Router()
+const {login , auth } = require("./../controller/mainContainer")
+const stre = require("./../controller/bufferStreams")
+
+routes.get("/login",login)
+routes.get("/auth",auth)
+routes.get("/read",stre.read)
+
+
+module.exports = routes;const routes = require("express").Router()
+const {login , auth } = require("./../controller/mainContainer")
+const stre = require("./../controller/bufferStreams")
+
+routes.get("/login",login)
+routes.get("/auth",auth)
+routes.get("/read",stre.read)
+
+
+module.exports = routes;const routes = require("express").Router()
+const {login , auth } = require("./../controller/mainContainer")
+const stre = require("./../controller/bufferStreams")
+
+routes.get("/login",login)
+routes.get("/auth",auth)
+routes.get("/read",stre.read)
+
+
+module.exports = routes;const routes = require("express").Router()
+const {login , auth } = require("./../controller/mainContainer")
+const stre = require("./../controller/bufferStreams")
+
+routes.get("/login",login)
+routes.get("/auth",auth)
+routes.get("/read",stre.read)
+
+
+module.exports = routes;const routes = require("express").Router()
+const {login , auth } = require("./../controller/mainContainer")
+const stre = require("./../controller/bufferStreams")
+
+routes.get("/login",login)
+routes.get("/auth",auth)
+routes.get("/read",stre.read)
+
+
+module.exports = routes;const routes = require("express").Router()
+const {login , auth } = require("./../controller/mainContainer")
+const stre = require("./../controller/bufferStreams")
+
+routes.get("/login",login)
+routes.get("/auth",auth)
+routes.get("/read",stre.read)
+
+
+module.exports = routes;const routes = require("express").Router()
+const {login , auth } = require("./../controller/mainContainer")
+const stre = require("./../controller/bufferStreams")
+
+routes.get("/login",login)
+routes.get("/auth",auth)
+routes.get("/read",stre.read)
+
+
+module.exports = routes;const routes = require("express").Router()
+const {login , auth } = require("./../controller/mainContainer")
+const stre = require("./../controller/bufferStreams")
+
+routes.get("/login",login)
+routes.get("/auth",auth)
+routes.get("/read",stre.read)
+
+
+module.exports = routes;hello
+i
+need
+to 
+read
+this
+file
+line
+by
+line
+thankyou
+const routes = require("express").Router()
+const {login , auth } = require("./../controller/mainContainer")
+const stre = require("./../controller/bufferStreams")
+
+routes.get("/login",login)
+routes.get("/auth",auth)
+routes.get("/read",stre.read)
+
+
+module.exports = routes;const routes = require("express").Router()
+const {login , auth } = require("./../controller/mainContainer")
+const stre = require("./../controller/bufferStreams")
+
+routes.get("/login",login)
+routes.get("/auth",auth)
+routes.get("/read",stre.read)
+
+
+module.exports = routes;const routes = require("express").Router()
+const {login , auth } = require("./../controller/mainContainer")
+const stre = require("./../controller/bufferStreams")
+
+routes.get("/login",login)
+routes.get("/auth",auth)
+routes.get("/read",stre.read)
+
+
+module.exports = routes;const routes = require("express").Router()
+const {login , auth } = require("./../controller/mainContainer")
+const stre = require("./../controller/bufferStreams")
+
+routes.get("/login",login)
+routes.get("/auth",auth)
+routes.get("/read",stre.read)
+
+
+module.exports = routes;const routes = require("express").Router()
+const {login , auth } = require("./../controller/mainContainer")
+const stre = require("./../controller/bufferStreams")
+
+routes.get("/login",login)
+routes.get("/auth",auth)
+routes.get("/read",stre.read)
+
+
+module.exports = routes;const routes = require("express").Router()
+const {login , auth } = require("./../controller/mainContainer")
+const stre = require("./../controller/bufferStreams")
+
+routes.get("/login",login)
+routes.get("/auth",auth)
+routes.get("/read",stre.read)
+
+
+module.exports = routes;const routes = require("express").Router()
+const {login , auth } = require("./../controller/mainContainer")
+const stre = require("./../controller/bufferStreams")
+
+routes.get("/login",login)
+routes.get("/auth",auth)
+routes.get("/read",stre.read)
+
+
+module.exports = routes;const routes = require("express").Router()
+const {login , auth } = require("./../controller/mainContainer")
+const stre = require("./../controller/bufferStreams")
+
+routes.get("/login",login)
+routes.get("/auth",auth)
+routes.get("/read",stre.read)
+
+
+module.exports = routes;const routes = require("express").Router()
+const {login , auth } = require("./../controller/mainContainer")
+const stre = require("./../controller/bufferStreams")
+
+routes.get("/login",login)
+routes.get("/auth",auth)
+routes.get("/read",stre.read)
+
+
+module.exports = routes;const routes = require("express").Router()
+const {login , auth } = require("./../controller/mainContainer")
+const stre = require("./../controller/bufferStreams")
+
+routes.get("/login",login)
+routes.get("/auth",auth)
+routes.get("/read",stre.read)
+
+
+module.exports = routes;const routes = require("express").Router()
+const {login , auth } = require("./../controller/mainContainer")
+const stre = require("./../controller/bufferStreams")
+
+routes.get("/login",login)
+routes.get("/auth",auth)
+routes.get("/read",stre.read)
+
+
+module.exports = routes;const routes = require("express").Router()
+const {login , auth } = require("./../controller/mainContainer")
+const stre = require("./../controller/bufferStreams")
+
+routes.get("/login",login)
+routes.get("/auth",auth)
+routes.get("/read",stre.read)
+
+
+module.exports = routes;const routes = require("express").Router()
+const {login , auth } = require("./../controller/mainContainer")
+const stre = require("./../controller/bufferStreams")
+
+routes.get("/login",login)
+routes.get("/auth",auth)
+routes.get("/read",stre.read)
+
+
+module.exports = routes;const routes = require("express").Router()
+const {login , auth } = require("./../controller/mainContainer")
+const stre = require("./../controller/bufferStreams")
+
+routes.get("/login",login)
+routes.get("/auth",auth)
+routes.get("/read",stre.read)
+
+
+module.exports = routes;const routes = require("express").Router()
+const {login , auth } = require("./../controller/mainContainer")
+const stre = require("./../controller/bufferStreams")
+
+routes.get("/login",login)
+routes.get("/auth",auth)
+routes.get("/read",stre.read)
+
+
+module.exports = routes;const routes = require("express").Router()
+const {login , auth } = require("./../controller/mainContainer")
+const stre = require("./../controller/bufferStreams")
+
+routes.get("/login",login)
+routes.get("/auth",auth)
+routes.get("/read",stre.read)
+
+
+module.exports = routes;const routes = require("express").Router()
+const {login , auth } = require("./../controller/mainContainer")
+const stre = require("./../controller/bufferStreams")
+
+routes.get("/login",login)
+routes.get("/auth",auth)
+routes.get("/read",stre.read)
+
+
+module.exports = routes;const routes = require("express").Router()
+const {login , auth } = require("./../controller/mainContainer")
+const stre = require("./../controller/bufferStreams")
+
+routes.get("/login",login)
+routes.get("/auth",auth)
+routes.get("/read",stre.read)
+
+
+module.exports = routes;const routes = require("express").Router()
+const {login , auth } = require("./../controller/mainContainer")
+const stre = require("./../controller/bufferStreams")
+
+routes.get("/login",login)
+routes.get("/auth",auth)
+routes.get("/read",stre.read)
+
+
+module.exports = routes;const routes = require("express").Router()
+const {login , auth } = require("./../controller/mainContainer")
+const stre = require("./../controller/bufferStreams")
+
+routes.get("/login",login)
+routes.get("/auth",auth)
+routes.get("/read",stre.read)
+
+
+module.exports = routes;const routes = require("express").Router()
+const {login , auth } = require("./../controller/mainContainer")
+const stre = require("./../controller/bufferStreams")
+
+routes.get("/login",login)
+routes.get("/auth",auth)
+routes.get("/read",stre.read)
+
+
+module.exports = routes;const routes = require("express").Router()
+const {login , auth } = require("./../controller/mainContainer")
+const stre = require("./../controller/bufferStreams")
+
+routes.get("/login",login)
+routes.get("/auth",auth)
+routes.get("/read",stre.read)
+
+
+module.exports = routes;const routes = require("express").Router()
+const {login , auth } = require("./../controller/mainContainer")
+const stre = require("./../controller/bufferStreams")
+
+routes.get("/login",login)
+routes.get("/auth",auth)
+routes.get("/read",stre.read)
+
+
+module.exports = routes;const routes = require("express").Router()
+const {login , auth } = require("./../controller/mainContainer")
+const stre = require("./../controller/bufferStreams")
+
+routes.get("/login",login)
+routes.get("/auth",auth)
+routes.get("/read",stre.read)
+
+
+module.exports = routes;hello
+i
+need
+to 
+read
+this
+file
+line
+by
+line
+thankyou
+const routes = require("express").Router()
+const {login , auth } = require("./../controller/mainContainer")
+const stre = require("./../controller/bufferStreams")
+
+routes.get("/login",login)
+routes.get("/auth",auth)
+routes.get("/read",stre.read)
+
+
+module.exports = routes;const routes = require("express").Router()
+const {login , auth } = require("./../controller/mainContainer")
+const stre = require("./../controller/bufferStreams")
+
+routes.get("/login",login)
+routes.get("/auth",auth)
+routes.get("/read",stre.read)
+
+
+module.exports = routes;const routes = require("express").Router()
+const {login , auth } = require("./../controller/mainContainer")
+const stre = require("./../controller/bufferStreams")
+
+routes.get("/login",login)
+routes.get("/auth",auth)
+routes.get("/read",stre.read)
+
+
+module.exports = routes;const routes = require("express").Router()
+const {login , auth } = require("./../controller/mainContainer")
+const stre = require("./../controller/bufferStreams")
+
+routes.get("/login",login)
+routes.get("/auth",auth)
+routes.get("/read",stre.read)
+
+
+module.exports = routes;const routes = require("express").Router()
+const {login , auth } = require("./../controller/mainContainer")
+const stre = require("./../controller/bufferStreams")
+
+routes.get("/login",login)
+routes.get("/auth",auth)
+routes.get("/read",stre.read)
+
+
+module.exports = routes;const routes = require("express").Router()
+const {login , auth } = require("./../controller/mainContainer")
+const stre = require("./../controller/bufferStreams")
+
+routes.get("/login",login)
+routes.get("/auth",auth)
+routes.get("/read",stre.read)
+
+
+module.exports = routes;const routes = require("express").Router()
+const {login , auth } = require("./../controller/mainContainer")
+const stre = require("./../controller/bufferStreams")
+
+routes.get("/login",login)
+routes.get("/auth",auth)
+routes.get("/read",stre.read)
+
+
+module.exports = routes;const routes = require("express").Router()
+const {login , auth } = require("./../controller/mainContainer")
+const stre = require("./../controller/bufferStreams")
+
+routes.get("/login",login)
+routes.get("/auth",auth)
+routes.get("/read",stre.read)
+
+
+module.exports = routes;const routes = require("express").Router()
+const {login , auth } = require("./../controller/mainContainer")
+const stre = require("./../controller/bufferStreams")
+
+routes.get("/login",login)
+routes.get("/auth",auth)
+routes.get("/read",stre.read)
+
+
+module.exports = routes;const routes = require("express").Router()
+const {login , auth } = require("./../controller/mainContainer")
+const stre = require("./../controller/bufferStreams")
+
+routes.get("/login",login)
+routes.get("/auth",auth)
+routes.get("/read",stre.read)
+
+
+module.exports = routes;const routes = require("express").Router()
+const {login , auth } = require("./../controller/mainContainer")
+const stre = require("./../controller/bufferStreams")
+
+routes.get("/login",login)
+routes.get("/auth",auth)
+routes.get("/read",stre.read)
+
+
+module.exports = routes;const routes = require("express").Router()
+const {login , auth } = require("./../controller/mainContainer")
+const stre = require("./../controller/bufferStreams")
+
+routes.get("/login",login)
+routes.get("/auth",auth)
+routes.get("/read",stre.read)
+
+
+module.exports = routes;const routes = require("express").Router()
+const {login , auth } = require("./../controller/mainContainer")
+const stre = require("./../controller/bufferStreams")
+
+routes.get("/login",login)
+routes.get("/auth",auth)
+routes.get("/read",stre.read)
+
+
+module.exports = routes;const routes = require("express").Router()
+const {login , auth } = require("./../controller/mainContainer")
+const stre = require("./../controller/bufferStreams")
+
+routes.get("/login",login)
+routes.get("/auth",auth)
+routes.get("/read",stre.read)
+
+
+module.exports = routes;const routes = require("express").Router()
+const {login , auth } = require("./../controller/mainContainer")
+const stre = require("./../controller/bufferStreams")
+
+routes.get("/login",login)
+routes.get("/auth",auth)
+routes.get("/read",stre.read)
+
+
+module.exports = routes;const routes = require("express").Router()
+const {login , auth } = require("./../controller/mainContainer")
+const stre = require("./../controller/bufferStreams")
+
+routes.get("/login",login)
+routes.get("/auth",auth)
+routes.get("/read",stre.read)
+
+
+module.exports = routes;const routes = require("express").Router()
+const {login , auth } = require("./../controller/mainContainer")
+const stre = require("./../controller/bufferStreams")
+
+routes.get("/login",login)
+routes.get("/auth",auth)
+routes.get("/read",stre.read)
+
+
+module.exports = routes;const routes = require("express").Router()
+const {login , auth } = require("./../controller/mainContainer")
+const stre = require("./../controller/bufferStreams")
+
+routes.get("/login",login)
+routes.get("/auth",auth)
+routes.get("/read",stre.read)
+
+
+module.exports = routes;const routes = require("express").Router()
+const {login , auth } = require("./../controller/mainContainer")
+const stre = require("./../controller/bufferStreams")
+
+routes.get("/login",login)
+routes.get("/auth",auth)
+routes.get("/read",stre.read)
+
+
+module.exports = routes;const routes = require("express").Router()
+const {login , auth } = require("./../controller/mainContainer")
+const stre = require("./../controller/bufferStreams")
+
+routes.get("/login",login)
+routes.get("/auth",auth)
+routes.get("/read",stre.read)
+
+
+module.exports = routes;const routes = require("express").Router()
+const {login , auth } = require("./../controller/mainContainer")
+const stre = require("./../controller/bufferStreams")
+
+routes.get("/login",login)
+routes.get("/auth",auth)
+routes.get("/read",stre.read)
+
+
+module.exports = routes;const routes = require("express").Router()
+const {login , auth } = require("./../controller/mainContainer")
+const stre = require("./../controller/bufferStreams")
+
+routes.get("/login",login)
+routes.get("/auth",auth)
+routes.get("/read",stre.read)
+
+
+module.exports = routes;const routes = require("express").Router()
+const {login , auth } = require("./../controller/mainContainer")
+const stre = require("./../controller/bufferStreams")
+
+routes.get("/login",login)
+routes.get("/auth",auth)
+routes.get("/read",stre.read)
+
+
+module.exports = routes;const routes = require("express").Router()
+const {login , auth } = require("./../controller/mainContainer")
+const stre = require("./../controller/bufferStreams")
+
+routes.get("/login",login)
+routes.get("/auth",auth)
+routes.get("/read",stre.read)
+
+
+module.exports = routes;hello
+i
+need
+to 
+read
+this
+file
+line
+by
+line
+thankyou
+const routes = require("express").Router()
+const {login , auth } = require("./../controller/mainContainer")
+const stre = require("./../controller/bufferStreams")
+
+routes.get("/login",login)
+routes.get("/auth",auth)
+routes.get("/read",stre.read)
+
+
+module.exports = routes;const routes = require("express").Router()
+const {login , auth } = require("./../controller/mainContainer")
+const stre = require("./../controller/bufferStreams")
+
+routes.get("/login",login)
+routes.get("/auth",auth)
+routes.get("/read",stre.read)
+
+
+module.exports = routes;const routes = require("express").Router()
+const {login , auth } = require("./../controller/mainContainer")
+const stre = require("./../controller/bufferStreams")
+
+routes.get("/login",login)
+routes.get("/auth",auth)
+routes.get("/read",stre.read)
+
+
+module.exports = routes;const routes = require("express").Router()
+const {login , auth } = require("./../controller/mainContainer")
+const stre = require("./../controller/bufferStreams")
+
+routes.get("/login",login)
+routes.get("/auth",auth)
+routes.get("/read",stre.read)
+
+
+module.exports = routes;const routes = require("express").Router()
+const {login , auth } = require("./../controller/mainContainer")
+const stre = require("./../controller/bufferStreams")
+
+routes.get("/login",login)
+routes.get("/auth",auth)
+routes.get("/read",stre.read)
+
+
+module.exports = routes;const routes = require("express").Router()
+const {login , auth } = require("./../controller/mainContainer")
+const stre = require("./../controller/bufferStreams")
+
+routes.get("/login",login)
+routes.get("/auth",auth)
+routes.get("/read",stre.read)
+
+
+module.exports = routes;const routes = require("express").Router()
+const {login , auth } = require("./../controller/mainContainer")
+const stre = require("./../controller/bufferStreams")
+
+routes.get("/login",login)
+routes.get("/auth",auth)
+routes.get("/read",stre.read)
+
+
+module.exports = routes;const routes = require("express").Router()
+const {login , auth } = require("./../controller/mainContainer")
+const stre = require("./../controller/bufferStreams")
+
+routes.get("/login",login)
+routes.get("/auth",auth)
+routes.get("/read",stre.read)
+
+
+module.exports = routes;const routes = require("express").Router()
+const {login , auth } = require("./../controller/mainContainer")
+const stre = require("./../controller/bufferStreams")
+
+routes.get("/login",login)
+routes.get("/auth",auth)
+routes.get("/read",stre.read)
+
+
+module.exports = routes;const routes = require("express").Router()
+const {login , auth } = require("./../controller/mainContainer")
+const stre = require("./../controller/bufferStreams")
+
+routes.get("/login",login)
+routes.get("/auth",auth)
+routes.get("/read",stre.read)
+
+
+module.exports = routes;const routes = require("express").Router()
+const {login , auth } = require("./../controller/mainContainer")
+const stre = require("./../controller/bufferStreams")
+
+routes.get("/login",login)
+routes.get("/auth",auth)
+routes.get("/read",stre.read)
+
+
+module.exports = routes;const routes = require("express").Router()
+const {login , auth } = require("./../controller/mainContainer")
+const stre = require("./../controller/bufferStreams")
+
+routes.get("/login",login)
+routes.get("/auth",auth)
+routes.get("/read",stre.read)
+
+
+module.exports = routes;const routes = require("express").Router()
+const {login , auth } = require("./../controller/mainContainer")
+const stre = require("./../controller/bufferStreams")
+
+routes.get("/login",login)
+routes.get("/auth",auth)
+routes.get("/read",stre.read)
+
+
+module.exports = routes;const routes = require("express").Router()
+const {login , auth } = require("./../controller/mainContainer")
+const stre = require("./../controller/bufferStreams")
+
+routes.get("/login",login)
+routes.get("/auth",auth)
+routes.get("/read",stre.read)
+
+
+module.exports = routes;const routes = require("express").Router()
+const {login , auth } = require("./../controller/mainContainer")
+const stre = require("./../controller/bufferStreams")
+
+routes.get("/login",login)
+routes.get("/auth",auth)
+routes.get("/read",stre.read)
+
+
+module.exports = routes;const routes = require("express").Router()
+const {login , auth } = require("./../controller/mainContainer")
+const stre = require("./../controller/bufferStreams")
+
+routes.get("/login",login)
+routes.get("/auth",auth)
+routes.get("/read",stre.read)
+
+
+module.exports = routes;const routes = require("express").Router()
+const {login , auth } = require("./../controller/mainContainer")
+const stre = require("./../controller/bufferStreams")
+
+routes.get("/login",login)
+routes.get("/auth",auth)
+routes.get("/read",stre.read)
+
+
+module.exports = routes;const routes = require("express").Router()
+const {login , auth } = require("./../controller/mainContainer")
+const stre = require("./../controller/bufferStreams")
+
+routes.get("/login",login)
+routes.get("/auth",auth)
+routes.get("/read",stre.read)
+
+
+module.exports = routes;const routes = require("express").Router()
+const {login , auth } = require("./../controller/mainContainer")
+const stre = require("./../controller/bufferStreams")
+
+routes.get("/login",login)
+routes.get("/auth",auth)
+routes.get("/read",stre.read)
+
+
+module.exports = routes;const routes = require("express").Router()
+const {login , auth } = require("./../controller/mainContainer")
+const stre = require("./../controller/bufferStreams")
+
+routes.get("/login",login)
+routes.get("/auth",auth)
+routes.get("/read",stre.read)
+
+
+module.exports = routes;const routes = require("express").Router()
+const {login , auth } = require("./../controller/mainContainer")
+const stre = require("./../controller/bufferStreams")
+
+routes.get("/login",login)
+routes.get("/auth",auth)
+routes.get("/read",stre.read)
+
+
+module.exports = routes;const routes = require("express").Router()
+const {login , auth } = require("./../controller/mainContainer")
+const stre = require("./../controller/bufferStreams")
+
+routes.get("/login",login)
+routes.get("/auth",auth)
+routes.get("/read",stre.read)
+
+
+module.exports = routes;const routes = require("express").Router()
+const {login , auth } = require("./../controller/mainContainer")
+const stre = require("./../controller/bufferStreams")
+
+routes.get("/login",login)
+routes.get("/auth",auth)
+routes.get("/read",stre.read)
+
+
+module.exports = routes;const routes = require("express").Router()
+const {login , auth } = require("./../controller/mainContainer")
+const stre = require("./../controller/bufferStreams")
+
+routes.get("/login",login)
+routes.get("/auth",auth)
+routes.get("/read",stre.read)
+
+
+module.exports = routes;hello
+i
+need
+to 
+read
+this
+file
+line
+by
+line
+thankyou
+const routes = require("express").Router()
+const {login , auth } = require("./../controller/mainContainer")
+const stre = require("./../controller/bufferStreams")
+
+routes.get("/login",login)
+routes.get("/auth",auth)
+routes.get("/read",stre.read)
+
+
+module.exports = routes;const routes = require("express").Router()
+const {login , auth } = require("./../controller/mainContainer")
+const stre = require("./../controller/bufferStreams")
+
+routes.get("/login",login)
+routes.get("/auth",auth)
+routes.get("/read",stre.read)
+
+
+module.exports = routes;const routes = require("express").Router()
+const {login , auth } = require("./../controller/mainContainer")
+const stre = require("./../controller/bufferStreams")
+
+routes.get("/login",login)
+routes.get("/auth",auth)
+routes.get("/read",stre.read)
+
+
+module.exports = routes;const routes = require("express").Router()
+const {login , auth } = require("./../controller/mainContainer")
+const stre = require("./../controller/bufferStreams")
+
+routes.get("/login",login)
+routes.get("/auth",auth)
+routes.get("/read",stre.read)
+
+
+module.exports = routes;const routes = require("express").Router()
+const {login , auth } = require("./../controller/mainContainer")
+const stre = require("./../controller/bufferStreams")
+
+routes.get("/login",login)
+routes.get("/auth",auth)
+routes.get("/read",stre.read)
+
+
+module.exports = routes;const routes = require("express").Router()
+const {login , auth } = require("./../controller/mainContainer")
+const stre = require("./../controller/bufferStreams")
+
+routes.get("/login",login)
+routes.get("/auth",auth)
+routes.get("/read",stre.read)
+
+
+module.exports = routes;const routes = require("express").Router()
+const {login , auth } = require("./../controller/mainContainer")
+const stre = require("./../controller/bufferStreams")
+
+routes.get("/login",login)
+routes.get("/auth",auth)
+routes.get("/read",stre.read)
+
+
+module.exports = routes;const routes = require("express").Router()
+const {login , auth } = require("./../controller/mainContainer")
+const stre = require("./../controller/bufferStreams")
+
+routes.get("/login",login)
+routes.get("/auth",auth)
+routes.get("/read",stre.read)
+
+
+module.exports = routes;const routes = require("express").Router()
+const {login , auth } = require("./../controller/mainContainer")
+const stre = require("./../controller/bufferStreams")
+
+routes.get("/login",login)
+routes.get("/auth",auth)
+routes.get("/read",stre.read)
+
+
+module.exports = routes;const routes = require("express").Router()
+const {login , auth } = require("./../controller/mainContainer")
+const stre = require("./../controller/bufferStreams")
+
+routes.get("/login",login)
+routes.get("/auth",auth)
+routes.get("/read",stre.read)
+
+
+module.exports = routes;const routes = require("express").Router()
+const {login , auth } = require("./../controller/mainContainer")
+const stre = require("./../controller/bufferStreams")
+
+routes.get("/login",login)
+routes.get("/auth",auth)
+routes.get("/read",stre.read)
+
+
+module.exports = routes;const routes = require("express").Router()
+const {login , auth } = require("./../controller/mainContainer")
+const stre = require("./../controller/bufferStreams")
+
+routes.get("/login",login)
+routes.get("/auth",auth)
+routes.get("/read",stre.read)
+
+
+module.exports = routes;const routes = require("express").Router()
+const {login , auth } = require("./../controller/mainContainer")
+const stre = require("./../controller/bufferStreams")
+
+routes.get("/login",login)
+routes.get("/auth",auth)
+routes.get("/read",stre.read)
+
+
+module.exports = routes;const routes = require("express").Router()
+const {login , auth } = require("./../controller/mainContainer")
+const stre = require("./../controller/bufferStreams")
+
+routes.get("/login",login)
+routes.get("/auth",auth)
+routes.get("/read",stre.read)
+
+
+module.exports = routes;const routes = require("express").Router()
+const {login , auth } = require("./../controller/mainContainer")
+const stre = require("./../controller/bufferStreams")
+
+routes.get("/login",login)
+routes.get("/auth",auth)
+routes.get("/read",stre.read)
+
+
+module.exports = routes;const routes = require("express").Router()
+const {login , auth } = require("./../controller/mainContainer")
+const stre = require("./../controller/bufferStreams")
+
+routes.get("/login",login)
+routes.get("/auth",auth)
+routes.get("/read",stre.read)
+
+
+module.exports = routes;const routes = require("express").Router()
+const {login , auth } = require("./../controller/mainContainer")
+const stre = require("./../controller/bufferStreams")
+
+routes.get("/login",login)
+routes.get("/auth",auth)
+routes.get("/read",stre.read)
+
+
+module.exports = routes;const routes = require("express").Router()
+const {login , auth } = require("./../controller/mainContainer")
+const stre = require("./../controller/bufferStreams")
+
+routes.get("/login",login)
+routes.get("/auth",auth)
+routes.get("/read",stre.read)
+
+
+module.exports = routes;const routes = require("express").Router()
+const {login , auth } = require("./../controller/mainContainer")
+const stre = require("./../controller/bufferStreams")
+
+routes.get("/login",login)
+routes.get("/auth",auth)
+routes.get("/read",stre.read)
+
+
+module.exports = routes;const routes = require("express").Router()
+const {login , auth } = require("./../controller/mainContainer")
+const stre = require("./../controller/bufferStreams")
+
+routes.get("/login",login)
+routes.get("/auth",auth)
+routes.get("/read",stre.read)
+
+
+module.exports = routes;const routes = require("express").Router()
+const {login , auth } = require("./../controller/mainContainer")
+const stre = require("./../controller/bufferStreams")
+
+routes.get("/login",login)
+routes.get("/auth",auth)
+routes.get("/read",stre.read)
+
+
+module.exports = routes;const routes = require("express").Router()
+const {login , auth } = require("./../controller/mainContainer")
+const stre = require("./../controller/bufferStreams")
+
+routes.get("/login",login)
+routes.get("/auth",auth)
+routes.get("/read",stre.read)
+
+
+module.exports = routes;const routes = require("express").Router()
+const {login , auth } = require("./../controller/mainContainer")
+const stre = require("./../controller/bufferStreams")
+
+routes.get("/login",login)
+routes.get("/auth",auth)
+routes.get("/read",stre.read)
+
+
+module.exports = routes;const routes = require("express").Router()
+const {login , auth } = require("./../controller/mainContainer")
+const stre = require("./../controller/bufferStreams")
+
+routes.get("/login",login)
+routes.get("/auth",auth)
+routes.get("/read",stre.read)
+
+
+module.exports = routes;hello
+i
+need
+to 
+read
+this
+file
+line
+by
+line
+thankyou
+const routes = require("express").Router()
+const {login , auth } = require("./../controller/mainContainer")
+const stre = require("./../controller/bufferStreams")
+
+routes.get("/login",login)
+routes.get("/auth",auth)
+routes.get("/read",stre.read)
+
+
+module.exports = routes;const routes = require("express").Router()
+const {login , auth } = require("./../controller/mainContainer")
+const stre = require("./../controller/bufferStreams")
+
+routes.get("/login",login)
+routes.get("/auth",auth)
+routes.get("/read",stre.read)
+
+
+module.exports = routes;const routes = require("express").Router()
+const {login , auth } = require("./../controller/mainContainer")
+const stre = require("./../controller/bufferStreams")
+
+routes.get("/login",login)
+routes.get("/auth",auth)
+routes.get("/read",stre.read)
+
+
+module.exports = routes;const routes = require("express").Router()
+const {login , auth } = require("./../controller/mainContainer")
+const stre = require("./../controller/bufferStreams")
+
+routes.get("/login",login)
+routes.get("/auth",auth)
+routes.get("/read",stre.read)
+
+
+module.exports = routes;const routes = require("express").Router()
+const {login , auth } = require("./../controller/mainContainer")
+const stre = require("./../controller/bufferStreams")
+
+routes.get("/login",login)
+routes.get("/auth",auth)
+routes.get("/read",stre.read)
+
+
+module.exports = routes;const routes = require("express").Router()
+const {login , auth } = require("./../controller/mainContainer")
+const stre = require("./../controller/bufferStreams")
+
+routes.get("/login",login)
+routes.get("/auth",auth)
+routes.get("/read",stre.read)
+
+
+module.exports = routes;const routes = require("express").Router()
+const {login , auth } = require("./../controller/mainContainer")
+const stre = require("./../controller/bufferStreams")
+
+routes.get("/login",login)
+routes.get("/auth",auth)
+routes.get("/read",stre.read)
+
+
+module.exports = routes;const routes = require("express").Router()
+const {login , auth } = require("./../controller/mainContainer")
+const stre = require("./../controller/bufferStreams")
+
+routes.get("/login",login)
+routes.get("/auth",auth)
+routes.get("/read",stre.read)
+
+
+module.exports = routes;const routes = require("express").Router()
+const {login , auth } = require("./../controller/mainContainer")
+const stre = require("./../controller/bufferStreams")
+
+routes.get("/login",login)
+routes.get("/auth",auth)
+routes.get("/read",stre.read)
+
+
+module.exports = routes;const routes = require("express").Router()
+const {login , auth } = require("./../controller/mainContainer")
+const stre = require("./../controller/bufferStreams")
+
+routes.get("/login",login)
+routes.get("/auth",auth)
+routes.get("/read",stre.read)
+
+
+module.exports = routes;const routes = require("express").Router()
+const {login , auth } = require("./../controller/mainContainer")
+const stre = require("./../controller/bufferStreams")
+
+routes.get("/login",login)
+routes.get("/auth",auth)
+routes.get("/read",stre.read)
+
+
+module.exports = routes;const routes = require("express").Router()
+const {login , auth } = require("./../controller/mainContainer")
+const stre = require("./../controller/bufferStreams")
+
+routes.get("/login",login)
+routes.get("/auth",auth)
+routes.get("/read",stre.read)
+
+
+module.exports = routes;const routes = require("express").Router()
+const {login , auth } = require("./../controller/mainContainer")
+const stre = require("./../controller/bufferStreams")
+
+routes.get("/login",login)
+routes.get("/auth",auth)
+routes.get("/read",stre.read)
+
+
+module.exports = routes;const routes = require("express").Router()
+const {login , auth } = require("./../controller/mainContainer")
+const stre = require("./../controller/bufferStreams")
+
+routes.get("/login",login)
+routes.get("/auth",auth)
+routes.get("/read",stre.read)
+
+
+module.exports = routes;const routes = require("express").Router()
+const {login , auth } = require("./../controller/mainContainer")
+const stre = require("./../controller/bufferStreams")
+
+routes.get("/login",login)
+routes.get("/auth",auth)
+routes.get("/read",stre.read)
+
+
+module.exports = routes;const routes = require("express").Router()
+const {login , auth } = require("./../controller/mainContainer")
+const stre = require("./../controller/bufferStreams")
+
+routes.get("/login",login)
+routes.get("/auth",auth)
+routes.get("/read",stre.read)
+
+
+module.exports = routes;const routes = require("express").Router()
+const {login , auth } = require("./../controller/mainContainer")
+const stre = require("./../controller/bufferStreams")
+
+routes.get("/login",login)
+routes.get("/auth",auth)
+routes.get("/read",stre.read)
+
+
+module.exports = routes;const routes = require("express").Router()
+const {login , auth } = require("./../controller/mainContainer")
+const stre = require("./../controller/bufferStreams")
+
+routes.get("/login",login)
+routes.get("/auth",auth)
+routes.get("/read",stre.read)
+
+
+module.exports = routes;const routes = require("express").Router()
+const {login , auth } = require("./../controller/mainContainer")
+const stre = require("./../controller/bufferStreams")
+
+routes.get("/login",login)
+routes.get("/auth",auth)
+routes.get("/read",stre.read)
+
+
+module.exports = routes;const routes = require("express").Router()
+const {login , auth } = require("./../controller/mainContainer")
+const stre = require("./../controller/bufferStreams")
+
+routes.get("/login",login)
+routes.get("/auth",auth)
+routes.get("/read",stre.read)
+
+
+module.exports = routes;const routes = require("express").Router()
+const {login , auth } = require("./../controller/mainContainer")
+const stre = require("./../controller/bufferStreams")
+
+routes.get("/login",login)
+routes.get("/auth",auth)
+routes.get("/read",stre.read)
+
+
+module.exports = routes;const routes = require("express").Router()
+const {login , auth } = require("./../controller/mainContainer")
+const stre = require("./../controller/bufferStreams")
+
+routes.get("/login",login)
+routes.get("/auth",auth)
+routes.get("/read",stre.read)
+
+
+module.exports = routes;const routes = require("express").Router()
+const {login , auth } = require("./../controller/mainContainer")
+const stre = require("./../controller/bufferStreams")
+
+routes.get("/login",login)
+routes.get("/auth",auth)
+routes.get("/read",stre.read)
+
+
+module.exports = routes;const routes = require("express").Router()
+const {login , auth } = require("./../controller/mainContainer")
+const stre = require("./../controller/bufferStreams")
+
+routes.get("/login",login)
+routes.get("/auth",auth)
+routes.get("/read",stre.read)
+
+
+module.exports = routes;hello
+i
+need
+to 
+read
+this
+file
+line
+by
+line
+thankyou
+const routes = require("express").Router()
+const {login , auth } = require("./../controller/mainContainer")
+const stre = require("./../controller/bufferStreams")
+
+routes.get("/login",login)
+routes.get("/auth",auth)
+routes.get("/read",stre.read)
+
+
+module.exports = routes;const routes = require("express").Router()
+const {login , auth } = require("./../controller/mainContainer")
+const stre = require("./../controller/bufferStreams")
+
+routes.get("/login",login)
+routes.get("/auth",auth)
+routes.get("/read",stre.read)
+
+
+module.exports = routes;const routes = require("express").Router()
+const {login , auth } = require("./../controller/mainContainer")
+const stre = require("./../controller/bufferStreams")
+
+routes.get("/login",login)
+routes.get("/auth",auth)
+routes.get("/read",stre.read)
+
+
+module.exports = routes;const routes = require("express").Router()
+const {login , auth } = require("./../controller/mainContainer")
+const stre = require("./../controller/bufferStreams")
+
+routes.get("/login",login)
+routes.get("/auth",auth)
+routes.get("/read",stre.read)
+
+
+module.exports = routes;const routes = require("express").Router()
+const {login , auth } = require("./../controller/mainContainer")
+const stre = require("./../controller/bufferStreams")
+
+routes.get("/login",login)
+routes.get("/auth",auth)
+routes.get("/read",stre.read)
+
+
+module.exports = routes;const routes = require("express").Router()
+const {login , auth } = require("./../controller/mainContainer")
+const stre = require("./../controller/bufferStreams")
+
+routes.get("/login",login)
+routes.get("/auth",auth)
+routes.get("/read",stre.read)
+
+
+module.exports = routes;const routes = require("express").Router()
+const {login , auth } = require("./../controller/mainContainer")
+const stre = require("./../controller/bufferStreams")
+
+routes.get("/login",login)
+routes.get("/auth",auth)
+routes.get("/read",stre.read)
+
+
+module.exports = routes;const routes = require("express").Router()
+const {login , auth } = require("./../controller/mainContainer")
+const stre = require("./../controller/bufferStreams")
+
+routes.get("/login",login)
+routes.get("/auth",auth)
+routes.get("/read",stre.read)
+
+
+module.exports = routes;const routes = require("express").Router()
+const {login , auth } = require("./../controller/mainContainer")
+const stre = require("./../controller/bufferStreams")
+
+routes.get("/login",login)
+routes.get("/auth",auth)
+routes.get("/read",stre.read)
+
+
+module.exports = routes;const routes = require("express").Router()
+const {login , auth } = require("./../controller/mainContainer")
+const stre = require("./../controller/bufferStreams")
+
+routes.get("/login",login)
+routes.get("/auth",auth)
+routes.get("/read",stre.read)
+
+
+module.exports = routes;const routes = require("express").Router()
+const {login , auth } = require("./../controller/mainContainer")
+const stre = require("./../controller/bufferStreams")
+
+routes.get("/login",login)
+routes.get("/auth",auth)
+routes.get("/read",stre.read)
+
+
+module.exports = routes;const routes = require("express").Router()
+const {login , auth } = require("./../controller/mainContainer")
+const stre = require("./../controller/bufferStreams")
+
+routes.get("/login",login)
+routes.get("/auth",auth)
+routes.get("/read",stre.read)
+
+
+module.exports = routes;const routes = require("express").Router()
+const {login , auth } = require("./../controller/mainContainer")
+const stre = require("./../controller/bufferStreams")
+
+routes.get("/login",login)
+routes.get("/auth",auth)
+routes.get("/read",stre.read)
+
+
+module.exports = routes;const routes = require("express").Router()
+const {login , auth } = require("./../controller/mainContainer")
+const stre = require("./../controller/bufferStreams")
+
+routes.get("/login",login)
+routes.get("/auth",auth)
+routes.get("/read",stre.read)
+
+
+module.exports = routes;const routes = require("express").Router()
+const {login , auth } = require("./../controller/mainContainer")
+const stre = require("./../controller/bufferStreams")
+
+routes.get("/login",login)
+routes.get("/auth",auth)
+routes.get("/read",stre.read)
+
+
+module.exports = routes;const routes = require("express").Router()
+const {login , auth } = require("./../controller/mainContainer")
+const stre = require("./../controller/bufferStreams")
+
+routes.get("/login",login)
+routes.get("/auth",auth)
+routes.get("/read",stre.read)
+
+
+module.exports = routes;const routes = require("express").Router()
+const {login , auth } = require("./../controller/mainContainer")
+const stre = require("./../controller/bufferStreams")
+
+routes.get("/login",login)
+routes.get("/auth",auth)
+routes.get("/read",stre.read)
+
+
+module.exports = routes;const routes = require("express").Router()
+const {login , auth } = require("./../controller/mainContainer")
+const stre = require("./../controller/bufferStreams")
+
+routes.get("/login",login)
+routes.get("/auth",auth)
+routes.get("/read",stre.read)
+
+
+module.exports = routes;const routes = require("express").Router()
+const {login , auth } = require("./../controller/mainContainer")
+const stre = require("./../controller/bufferStreams")
+
+routes.get("/login",login)
+routes.get("/auth",auth)
+routes.get("/read",stre.read)
+
+
+module.exports = routes;const routes = require("express").Router()
+const {login , auth } = require("./../controller/mainContainer")
+const stre = require("./../controller/bufferStreams")
+
+routes.get("/login",login)
+routes.get("/auth",auth)
+routes.get("/read",stre.read)
+
+
+module.exports = routes;const routes = require("express").Router()
+const {login , auth } = require("./../controller/mainContainer")
+const stre = require("./../controller/bufferStreams")
+
+routes.get("/login",login)
+routes.get("/auth",auth)
+routes.get("/read",stre.read)
+
+
+module.exports = routes;const routes = require("express").Router()
+const {login , auth } = require("./../controller/mainContainer")
+const stre = require("./../controller/bufferStreams")
+
+routes.get("/login",login)
+routes.get("/auth",auth)
+routes.get("/read",stre.read)
+
+
+module.exports = routes;const routes = require("express").Router()
+const {login , auth } = require("./../controller/mainContainer")
+const stre = require("./../controller/bufferStreams")
+
+routes.get("/login",login)
+routes.get("/auth",auth)
+routes.get("/read",stre.read)
+
+
+module.exports = routes;const routes = require("express").Router()
+const {login , auth } = require("./../controller/mainContainer")
+const stre = require("./../controller/bufferStreams")
+
+routes.get("/login",login)
+routes.get("/auth",auth)
+routes.get("/read",stre.read)
+
+
+module.exports = routes;hello
+i
+need
+to 
+read
+this
+file
+line
+by
+line
+thankyou
+const routes = require("express").Router()
+const {login , auth } = require("./../controller/mainContainer")
+const stre = require("./../controller/bufferStreams")
+
+routes.get("/login",login)
+routes.get("/auth",auth)
+routes.get("/read",stre.read)
+
+
+module.exports = routes;const routes = require("express").Router()
+const {login , auth } = require("./../controller/mainContainer")
+const stre = require("./../controller/bufferStreams")
+
+routes.get("/login",login)
+routes.get("/auth",auth)
+routes.get("/read",stre.read)
+
+
+module.exports = routes;const routes = require("express").Router()
+const {login , auth } = require("./../controller/mainContainer")
+const stre = require("./../controller/bufferStreams")
+
+routes.get("/login",login)
+routes.get("/auth",auth)
+routes.get("/read",stre.read)
+
+
+module.exports = routes;const routes = require("express").Router()
+const {login , auth } = require("./../controller/mainContainer")
+const stre = require("./../controller/bufferStreams")
+
+routes.get("/login",login)
+routes.get("/auth",auth)
+routes.get("/read",stre.read)
+
+
+module.exports = routes;const routes = require("express").Router()
+const {login , auth } = require("./../controller/mainContainer")
+const stre = require("./../controller/bufferStreams")
+
+routes.get("/login",login)
+routes.get("/auth",auth)
+routes.get("/read",stre.read)
+
+
+module.exports = routes;const routes = require("express").Router()
+const {login , auth } = require("./../controller/mainContainer")
+const stre = require("./../controller/bufferStreams")
+
+routes.get("/login",login)
+routes.get("/auth",auth)
+routes.get("/read",stre.read)
+
+
+module.exports = routes;const routes = require("express").Router()
+const {login , auth } = require("./../controller/mainContainer")
+const stre = require("./../controller/bufferStreams")
+
+routes.get("/login",login)
+routes.get("/auth",auth)
+routes.get("/read",stre.read)
+
+
+module.exports = routes;const routes = require("express").Router()
+const {login , auth } = require("./../controller/mainContainer")
+const stre = require("./../controller/bufferStreams")
+
+routes.get("/login",login)
+routes.get("/auth",auth)
+routes.get("/read",stre.read)
+
+
+module.exports = routes;const routes = require("express").Router()
+const {login , auth } = require("./../controller/mainContainer")
+const stre = require("./../controller/bufferStreams")
+
+routes.get("/login",login)
+routes.get("/auth",auth)
+routes.get("/read",stre.read)
+
+
+module.exports = routes;const routes = require("express").Router()
+const {login , auth } = require("./../controller/mainContainer")
+const stre = require("./../controller/bufferStreams")
+
+routes.get("/login",login)
+routes.get("/auth",auth)
+routes.get("/read",stre.read)
+
+
+module.exports = routes;const routes = require("express").Router()
+const {login , auth } = require("./../controller/mainContainer")
+const stre = require("./../controller/bufferStreams")
+
+routes.get("/login",login)
+routes.get("/auth",auth)
+routes.get("/read",stre.read)
+
+
+module.exports = routes;const routes = require("express").Router()
+const {login , auth } = require("./../controller/mainContainer")
+const stre = require("./../controller/bufferStreams")
+
+routes.get("/login",login)
+routes.get("/auth",auth)
+routes.get("/read",stre.read)
+
+
+module.exports = routes;const routes = require("express").Router()
+const {login , auth } = require("./../controller/mainContainer")
+const stre = require("./../controller/bufferStreams")
+
+routes.get("/login",login)
+routes.get("/auth",auth)
+routes.get("/read",stre.read)
+
+
+module.exports = routes;const routes = require("express").Router()
+const {login , auth } = require("./../controller/mainContainer")
+const stre = require("./../controller/bufferStreams")
+
+routes.get("/login",login)
+routes.get("/auth",auth)
+routes.get("/read",stre.read)
+
+
+module.exports = routes;const routes = require("express").Router()
+const {login , auth } = require("./../controller/mainContainer")
+const stre = require("./../controller/bufferStreams")
+
+routes.get("/login",login)
+routes.get("/auth",auth)
+routes.get("/read",stre.read)
+
+
+module.exports = routes;const routes = require("express").Router()
+const {login , auth } = require("./../controller/mainContainer")
+const stre = require("./../controller/bufferStreams")
+
+routes.get("/login",login)
+routes.get("/auth",auth)
+routes.get("/read",stre.read)
+
+
+module.exports = routes;const routes = require("express").Router()
+const {login , auth } = require("./../controller/mainContainer")
+const stre = require("./../controller/bufferStreams")
+
+routes.get("/login",login)
+routes.get("/auth",auth)
+routes.get("/read",stre.read)
+
+
+module.exports = routes;const routes = require("express").Router()
+const {login , auth } = require("./../controller/mainContainer")
+const stre = require("./../controller/bufferStreams")
+
+routes.get("/login",login)
+routes.get("/auth",auth)
+routes.get("/read",stre.read)
+
+
+module.exports = routes;const routes = require("express").Router()
+const {login , auth } = require("./../controller/mainContainer")
+const stre = require("./../controller/bufferStreams")
+
+routes.get("/login",login)
+routes.get("/auth",auth)
+routes.get("/read",stre.read)
+
+
+module.exports = routes;const routes = require("express").Router()
+const {login , auth } = require("./../controller/mainContainer")
+const stre = require("./../controller/bufferStreams")
+
+routes.get("/login",login)
+routes.get("/auth",auth)
+routes.get("/read",stre.read)
+
+
+module.exports = routes;const routes = require("express").Router()
+const {login , auth } = require("./../controller/mainContainer")
+const stre = require("./../controller/bufferStreams")
+
+routes.get("/login",login)
+routes.get("/auth",auth)
+routes.get("/read",stre.read)
+
+
+module.exports = routes;const routes = require("express").Router()
+const {login , auth } = require("./../controller/mainContainer")
+const stre = require("./../controller/bufferStreams")
+
+routes.get("/login",login)
+routes.get("/auth",auth)
+routes.get("/read",stre.read)
+
+
+module.exports = routes;const routes = require("express").Router()
+const {login , auth } = require("./../controller/mainContainer")
+const stre = require("./../controller/bufferStreams")
+
+routes.get("/login",login)
+routes.get("/auth",auth)
+routes.get("/read",stre.read)
+
+
+module.exports = routes;const routes = require("express").Router()
+const {login , auth } = require("./../controller/mainContainer")
+const stre = require("./../controller/bufferStreams")
+
+routes.get("/login",login)
+routes.get("/auth",auth)
+routes.get("/read",stre.read)
+
+
+module.exports = routes;hello
+i
+need
+to 
+read
+this
+file
+line
+by
+line
+thankyou
+const routes = require("express").Router()
+const {login , auth } = require("./../controller/mainContainer")
+const stre = require("./../controller/bufferStreams")
+
+routes.get("/login",login)
+routes.get("/auth",auth)
+routes.get("/read",stre.read)
+
+
+module.exports = routes;const routes = require("express").Router()
+const {login , auth } = require("./../controller/mainContainer")
+const stre = require("./../controller/bufferStreams")
+
+routes.get("/login",login)
+routes.get("/auth",auth)
+routes.get("/read",stre.read)
+
+
+module.exports = routes;const routes = require("express").Router()
+const {login , auth } = require("./../controller/mainContainer")
+const stre = require("./../controller/bufferStreams")
+
+routes.get("/login",login)
+routes.get("/auth",auth)
+routes.get("/read",stre.read)
+
+
+module.exports = routes;const routes = require("express").Router()
+const {login , auth } = require("./../controller/mainContainer")
+const stre = require("./../controller/bufferStreams")
+
+routes.get("/login",login)
+routes.get("/auth",auth)
+routes.get("/read",stre.read)
+
+
+module.exports = routes;const routes = require("express").Router()
+const {login , auth } = require("./../controller/mainContainer")
+const stre = require("./../controller/bufferStreams")
+
+routes.get("/login",login)
+routes.get("/auth",auth)
+routes.get("/read",stre.read)
+
+
+module.exports = routes;const routes = require("express").Router()
+const {login , auth } = require("./../controller/mainContainer")
+const stre = require("./../controller/bufferStreams")
+
+routes.get("/login",login)
+routes.get("/auth",auth)
+routes.get("/read",stre.read)
+
+
+module.exports = routes;const routes = require("express").Router()
+const {login , auth } = require("./../controller/mainContainer")
+const stre = require("./../controller/bufferStreams")
+
+routes.get("/login",login)
+routes.get("/auth",auth)
+routes.get("/read",stre.read)
+
+
+module.exports = routes;const routes = require("express").Router()
+const {login , auth } = require("./../controller/mainContainer")
+const stre = require("./../controller/bufferStreams")
+
+routes.get("/login",login)
+routes.get("/auth",auth)
+routes.get("/read",stre.read)
+
+
+module.exports = routes;const routes = require("express").Router()
+const {login , auth } = require("./../controller/mainContainer")
+const stre = require("./../controller/bufferStreams")
+
+routes.get("/login",login)
+routes.get("/auth",auth)
+routes.get("/read",stre.read)
+
+
+module.exports = routes;const routes = require("express").Router()
+const {login , auth } = require("./../controller/mainContainer")
+const stre = require("./../controller/bufferStreams")
+
+routes.get("/login",login)
+routes.get("/auth",auth)
+routes.get("/read",stre.read)
+
+
+module.exports = routes;const routes = require("express").Router()
+const {login , auth } = require("./../controller/mainContainer")
+const stre = require("./../controller/bufferStreams")
+
+routes.get("/login",login)
+routes.get("/auth",auth)
+routes.get("/read",stre.read)
+
+
+module.exports = routes;const routes = require("express").Router()
+const {login , auth } = require("./../controller/mainContainer")
+const stre = require("./../controller/bufferStreams")
+
+routes.get("/login",login)
+routes.get("/auth",auth)
+routes.get("/read",stre.read)
+
+
+module.exports = routes;const routes = require("express").Router()
+const {login , auth } = require("./../controller/mainContainer")
+const stre = require("./../controller/bufferStreams")
+
+routes.get("/login",login)
+routes.get("/auth",auth)
+routes.get("/read",stre.read)
+
+
+module.exports = routes;const routes = require("express").Router()
+const {login , auth } = require("./../controller/mainContainer")
+const stre = require("./../controller/bufferStreams")
+
+routes.get("/login",login)
+routes.get("/auth",auth)
+routes.get("/read",stre.read)
+
+
+module.exports = routes;const routes = require("express").Router()
+const {login , auth } = require("./../controller/mainContainer")
+const stre = require("./../controller/bufferStreams")
+
+routes.get("/login",login)
+routes.get("/auth",auth)
+routes.get("/read",stre.read)
+
+
+module.exports = routes;const routes = require("express").Router()
+const {login , auth } = require("./../controller/mainContainer")
+const stre = require("./../controller/bufferStreams")
+
+routes.get("/login",login)
+routes.get("/auth",auth)
+routes.get("/read",stre.read)
+
+
+module.exports = routes;const routes = require("express").Router()
+const {login , auth } = require("./../controller/mainContainer")
+const stre = require("./../controller/bufferStreams")
+
+routes.get("/login",login)
+routes.get("/auth",auth)
+routes.get("/read",stre.read)
+
+
+module.exports = routes;const routes = require("express").Router()
+const {login , auth } = require("./../controller/mainContainer")
+const stre = require("./../controller/bufferStreams")
+
+routes.get("/login",login)
+routes.get("/auth",auth)
+routes.get("/read",stre.read)
+
+
+module.exports = routes;const routes = require("express").Router()
+const {login , auth } = require("./../controller/mainContainer")
+const stre = require("./../controller/bufferStreams")
+
+routes.get("/login",login)
+routes.get("/auth",auth)
+routes.get("/read",stre.read)
+
+
+module.exports = routes;const routes = require("express").Router()
+const {login , auth } = require("./../controller/mainContainer")
+const stre = require("./../controller/bufferStreams")
+
+routes.get("/login",login)
+routes.get("/auth",auth)
+routes.get("/read",stre.read)
+
+
+module.exports = routes;const routes = require("express").Router()
+const {login , auth } = require("./../controller/mainContainer")
+const stre = require("./../controller/bufferStreams")
+
+routes.get("/login",login)
+routes.get("/auth",auth)
+routes.get("/read",stre.read)
+
+
+module.exports = routes;const routes = require("express").Router()
+const {login , auth } = require("./../controller/mainContainer")
+const stre = require("./../controller/bufferStreams")
+
+routes.get("/login",login)
+routes.get("/auth",auth)
+routes.get("/read",stre.read)
+
+
+module.exports = routes;const routes = require("express").Router()
+const {login , auth } = require("./../controller/mainContainer")
+const stre = require("./../controller/bufferStreams")
+
+routes.get("/login",login)
+routes.get("/auth",auth)
+routes.get("/read",stre.read)
+
+
+module.exports = routes;const routes = require("express").Router()
+const {login , auth } = require("./../controller/mainContainer")
+const stre = require("./../controller/bufferStreams")
+
+routes.get("/login",login)
+routes.get("/auth",auth)
+routes.get("/read",stre.read)
+
+
+module.exports = routes;
+routes.get("/login",login)
+routes.get("/auth",auth)
+routes.get("/read",stre.read)
+
+
+module.exports = routes;const routes = require("express").Router()
+const {login , auth } = require("./../controller/mainContainer")
+const stre = require("./../controller/bufferStreams")
+
+routes.get("/login",login)
+routes.get("/auth",auth)
+routes.get("/read",stre.read)
+
+
+module.exports = routes;
+routes.get("/login",login)
+routes.get("/auth",auth)
+routes.get("/read",stre.read)
+
+
+module.exports = routes;const routes = require("express").Router()
+const {login , auth } = require("./../controller/mainContainer")
+const stre = require("./../controller/bufferStreams")
+
+routes.get("/login",login)
+routes.get("/auth",auth)
+routes.get("/read",stre.read)
+
+
+module.exports = routes;
